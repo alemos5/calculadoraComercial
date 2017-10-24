@@ -1,0 +1,1172 @@
+2016/11/28 13:08:59 [error] [exception.CHttpException.400] CHttpException: Su solicitud es inválida. in /var/www/html/fonpyme/framework/web/CController.php:336
+Stack trace:
+#0 /var/www/html/fonpyme/framework/web/CController.php(309): CController->invalidActionParams(Object(CInlineAction))
+#1 /var/www/html/fonpyme/framework/web/filters/CFilterChain.php(133): CController->runAction(Object(CInlineAction))
+#2 /var/www/html/fonpyme/framework/web/filters/CFilter.php(40): CFilterChain->run()
+#3 /var/www/html/fonpyme/framework/web/CController.php(1145): CFilter->filter(Object(CFilterChain))
+#4 /var/www/html/fonpyme/framework/web/filters/CInlineFilter.php(58): CController->filterAccessControl(Object(CFilterChain))
+#5 /var/www/html/fonpyme/framework/web/filters/CFilterChain.php(130): CInlineFilter->filter(Object(CFilterChain))
+#6 /var/www/html/fonpyme/framework/web/CController.php(291): CFilterChain->run()
+#7 /var/www/html/fonpyme/framework/web/CController.php(265): CController->runActionWithFilters(Object(CInlineAction), Array)
+#8 /var/www/html/fonpyme/framework/web/CWebApplication.php(282): CController->run('update')
+#9 /var/www/html/fonpyme/framework/web/CWebApplication.php(141): CWebApplication->runController('sociedad/update...')
+#10 /var/www/html/fonpyme/framework/base/CApplication.php(185): CWebApplication->processRequest()
+#11 /var/www/html/fonpyme/gacela/index.php(13): CApplication->run()
+#12 {main}
+REQUEST_URI=/fonpyme/gacela/sociedad/update/images/barra.png
+HTTP_REFERER=http://localhost/fonpyme/gacela/sociedad/update/23
+---
+2016/11/28 13:09:22 [error] [exception.CHttpException.400] CHttpException: Su solicitud es inválida. in /var/www/html/fonpyme/framework/web/CController.php:336
+Stack trace:
+#0 /var/www/html/fonpyme/framework/web/CController.php(309): CController->invalidActionParams(Object(CInlineAction))
+#1 /var/www/html/fonpyme/framework/web/filters/CFilterChain.php(133): CController->runAction(Object(CInlineAction))
+#2 /var/www/html/fonpyme/framework/web/filters/CFilter.php(40): CFilterChain->run()
+#3 /var/www/html/fonpyme/framework/web/CController.php(1145): CFilter->filter(Object(CFilterChain))
+#4 /var/www/html/fonpyme/framework/web/filters/CInlineFilter.php(58): CController->filterAccessControl(Object(CFilterChain))
+#5 /var/www/html/fonpyme/framework/web/filters/CFilterChain.php(130): CInlineFilter->filter(Object(CFilterChain))
+#6 /var/www/html/fonpyme/framework/web/CController.php(291): CFilterChain->run()
+#7 /var/www/html/fonpyme/framework/web/CController.php(265): CController->runActionWithFilters(Object(CInlineAction), Array)
+#8 /var/www/html/fonpyme/framework/web/CWebApplication.php(282): CController->run('update')
+#9 /var/www/html/fonpyme/framework/web/CWebApplication.php(141): CWebApplication->runController('sociedad/update...')
+#10 /var/www/html/fonpyme/framework/base/CApplication.php(185): CWebApplication->processRequest()
+#11 /var/www/html/fonpyme/gacela/index.php(13): CApplication->run()
+#12 {main}
+REQUEST_URI=/fonpyme/gacela/sociedad/update/images/barra.png
+HTTP_REFERER=http://localhost/fonpyme/gacela/sociedad/update/23
+---
+2016/11/28 13:09:22 [error] [exception.CHttpException.400] CHttpException: Su solicitud es inválida. in /var/www/html/fonpyme/framework/web/CController.php:336
+Stack trace:
+#0 /var/www/html/fonpyme/framework/web/CController.php(309): CController->invalidActionParams(Object(CInlineAction))
+#1 /var/www/html/fonpyme/framework/web/filters/CFilterChain.php(133): CController->runAction(Object(CInlineAction))
+#2 /var/www/html/fonpyme/framework/web/filters/CFilter.php(40): CFilterChain->run()
+#3 /var/www/html/fonpyme/framework/web/CController.php(1145): CFilter->filter(Object(CFilterChain))
+#4 /var/www/html/fonpyme/framework/web/filters/CInlineFilter.php(58): CController->filterAccessControl(Object(CFilterChain))
+#5 /var/www/html/fonpyme/framework/web/filters/CFilterChain.php(130): CInlineFilter->filter(Object(CFilterChain))
+#6 /var/www/html/fonpyme/framework/web/CController.php(291): CFilterChain->run()
+#7 /var/www/html/fonpyme/framework/web/CController.php(265): CController->runActionWithFilters(Object(CInlineAction), Array)
+#8 /var/www/html/fonpyme/framework/web/CWebApplication.php(282): CController->run('update')
+#9 /var/www/html/fonpyme/framework/web/CWebApplication.php(141): CWebApplication->runController('sociedad/update...')
+#10 /var/www/html/fonpyme/framework/base/CApplication.php(185): CWebApplication->processRequest()
+#11 /var/www/html/fonpyme/gacela/index.php(13): CApplication->run()
+#12 {main}
+REQUEST_URI=/fonpyme/gacela/sociedad/update/images/barra.png
+HTTP_REFERER=http://localhost/fonpyme/gacela/sociedad/update/23
+---
+2016/11/28 13:09:29 [error] [exception.CHttpException.400] CHttpException: Su solicitud es inválida. in /var/www/html/fonpyme/framework/web/CController.php:336
+Stack trace:
+#0 /var/www/html/fonpyme/framework/web/CController.php(309): CController->invalidActionParams(Object(CInlineAction))
+#1 /var/www/html/fonpyme/framework/web/filters/CFilterChain.php(133): CController->runAction(Object(CInlineAction))
+#2 /var/www/html/fonpyme/framework/web/filters/CFilter.php(40): CFilterChain->run()
+#3 /var/www/html/fonpyme/framework/web/CController.php(1145): CFilter->filter(Object(CFilterChain))
+#4 /var/www/html/fonpyme/framework/web/filters/CInlineFilter.php(58): CController->filterAccessControl(Object(CFilterChain))
+#5 /var/www/html/fonpyme/framework/web/filters/CFilterChain.php(130): CInlineFilter->filter(Object(CFilterChain))
+#6 /var/www/html/fonpyme/framework/web/CController.php(291): CFilterChain->run()
+#7 /var/www/html/fonpyme/framework/web/CController.php(265): CController->runActionWithFilters(Object(CInlineAction), Array)
+#8 /var/www/html/fonpyme/framework/web/CWebApplication.php(282): CController->run('update')
+#9 /var/www/html/fonpyme/framework/web/CWebApplication.php(141): CWebApplication->runController('sociedad/update...')
+#10 /var/www/html/fonpyme/framework/base/CApplication.php(185): CWebApplication->processRequest()
+#11 /var/www/html/fonpyme/gacela/index.php(13): CApplication->run()
+#12 {main}
+REQUEST_URI=/fonpyme/gacela/sociedad/update/images/barra.png
+HTTP_REFERER=http://localhost/fonpyme/gacela/sociedad/update/23
+---
+2016/11/28 13:09:29 [error] [exception.CHttpException.400] CHttpException: Su solicitud es inválida. in /var/www/html/fonpyme/framework/web/CController.php:336
+Stack trace:
+#0 /var/www/html/fonpyme/framework/web/CController.php(309): CController->invalidActionParams(Object(CInlineAction))
+#1 /var/www/html/fonpyme/framework/web/filters/CFilterChain.php(133): CController->runAction(Object(CInlineAction))
+#2 /var/www/html/fonpyme/framework/web/filters/CFilter.php(40): CFilterChain->run()
+#3 /var/www/html/fonpyme/framework/web/CController.php(1145): CFilter->filter(Object(CFilterChain))
+#4 /var/www/html/fonpyme/framework/web/filters/CInlineFilter.php(58): CController->filterAccessControl(Object(CFilterChain))
+#5 /var/www/html/fonpyme/framework/web/filters/CFilterChain.php(130): CInlineFilter->filter(Object(CFilterChain))
+#6 /var/www/html/fonpyme/framework/web/CController.php(291): CFilterChain->run()
+#7 /var/www/html/fonpyme/framework/web/CController.php(265): CController->runActionWithFilters(Object(CInlineAction), Array)
+#8 /var/www/html/fonpyme/framework/web/CWebApplication.php(282): CController->run('update')
+#9 /var/www/html/fonpyme/framework/web/CWebApplication.php(141): CWebApplication->runController('sociedad/update...')
+#10 /var/www/html/fonpyme/framework/base/CApplication.php(185): CWebApplication->processRequest()
+#11 /var/www/html/fonpyme/gacela/index.php(13): CApplication->run()
+#12 {main}
+REQUEST_URI=/fonpyme/gacela/sociedad/update/images/barra.png
+HTTP_REFERER=http://localhost/fonpyme/gacela/sociedad/update/23
+---
+2016/11/28 13:09:57 [error] [exception.CHttpException.400] CHttpException: Su solicitud es inválida. in /var/www/html/fonpyme/framework/web/CController.php:336
+Stack trace:
+#0 /var/www/html/fonpyme/framework/web/CController.php(309): CController->invalidActionParams(Object(CInlineAction))
+#1 /var/www/html/fonpyme/framework/web/filters/CFilterChain.php(133): CController->runAction(Object(CInlineAction))
+#2 /var/www/html/fonpyme/framework/web/filters/CFilter.php(40): CFilterChain->run()
+#3 /var/www/html/fonpyme/framework/web/CController.php(1145): CFilter->filter(Object(CFilterChain))
+#4 /var/www/html/fonpyme/framework/web/filters/CInlineFilter.php(58): CController->filterAccessControl(Object(CFilterChain))
+#5 /var/www/html/fonpyme/framework/web/filters/CFilterChain.php(130): CInlineFilter->filter(Object(CFilterChain))
+#6 /var/www/html/fonpyme/framework/web/CController.php(291): CFilterChain->run()
+#7 /var/www/html/fonpyme/framework/web/CController.php(265): CController->runActionWithFilters(Object(CInlineAction), Array)
+#8 /var/www/html/fonpyme/framework/web/CWebApplication.php(282): CController->run('update')
+#9 /var/www/html/fonpyme/framework/web/CWebApplication.php(141): CWebApplication->runController('sociedad/update...')
+#10 /var/www/html/fonpyme/framework/base/CApplication.php(185): CWebApplication->processRequest()
+#11 /var/www/html/fonpyme/gacela/index.php(13): CApplication->run()
+#12 {main}
+REQUEST_URI=/fonpyme/gacela/sociedad/update/images/barra.png
+HTTP_REFERER=http://localhost/fonpyme/gacela/sociedad/update/23
+---
+2016/11/28 13:09:57 [error] [exception.CHttpException.400] CHttpException: Su solicitud es inválida. in /var/www/html/fonpyme/framework/web/CController.php:336
+Stack trace:
+#0 /var/www/html/fonpyme/framework/web/CController.php(309): CController->invalidActionParams(Object(CInlineAction))
+#1 /var/www/html/fonpyme/framework/web/filters/CFilterChain.php(133): CController->runAction(Object(CInlineAction))
+#2 /var/www/html/fonpyme/framework/web/filters/CFilter.php(40): CFilterChain->run()
+#3 /var/www/html/fonpyme/framework/web/CController.php(1145): CFilter->filter(Object(CFilterChain))
+#4 /var/www/html/fonpyme/framework/web/filters/CInlineFilter.php(58): CController->filterAccessControl(Object(CFilterChain))
+#5 /var/www/html/fonpyme/framework/web/filters/CFilterChain.php(130): CInlineFilter->filter(Object(CFilterChain))
+#6 /var/www/html/fonpyme/framework/web/CController.php(291): CFilterChain->run()
+#7 /var/www/html/fonpyme/framework/web/CController.php(265): CController->runActionWithFilters(Object(CInlineAction), Array)
+#8 /var/www/html/fonpyme/framework/web/CWebApplication.php(282): CController->run('update')
+#9 /var/www/html/fonpyme/framework/web/CWebApplication.php(141): CWebApplication->runController('sociedad/update...')
+#10 /var/www/html/fonpyme/framework/base/CApplication.php(185): CWebApplication->processRequest()
+#11 /var/www/html/fonpyme/gacela/index.php(13): CApplication->run()
+#12 {main}
+REQUEST_URI=/fonpyme/gacela/sociedad/update/images/barra.png
+HTTP_REFERER=http://localhost/fonpyme/gacela/sociedad/update/23
+---
+2016/11/28 13:11:12 [error] [exception.CHttpException.400] CHttpException: Su solicitud es inválida. in /var/www/html/fonpyme/framework/web/CController.php:336
+Stack trace:
+#0 /var/www/html/fonpyme/framework/web/CController.php(309): CController->invalidActionParams(Object(CInlineAction))
+#1 /var/www/html/fonpyme/framework/web/filters/CFilterChain.php(133): CController->runAction(Object(CInlineAction))
+#2 /var/www/html/fonpyme/framework/web/filters/CFilter.php(40): CFilterChain->run()
+#3 /var/www/html/fonpyme/framework/web/CController.php(1145): CFilter->filter(Object(CFilterChain))
+#4 /var/www/html/fonpyme/framework/web/filters/CInlineFilter.php(58): CController->filterAccessControl(Object(CFilterChain))
+#5 /var/www/html/fonpyme/framework/web/filters/CFilterChain.php(130): CInlineFilter->filter(Object(CFilterChain))
+#6 /var/www/html/fonpyme/framework/web/CController.php(291): CFilterChain->run()
+#7 /var/www/html/fonpyme/framework/web/CController.php(265): CController->runActionWithFilters(Object(CInlineAction), Array)
+#8 /var/www/html/fonpyme/framework/web/CWebApplication.php(282): CController->run('update')
+#9 /var/www/html/fonpyme/framework/web/CWebApplication.php(141): CWebApplication->runController('sociedad/update...')
+#10 /var/www/html/fonpyme/framework/base/CApplication.php(185): CWebApplication->processRequest()
+#11 /var/www/html/fonpyme/gacela/index.php(13): CApplication->run()
+#12 {main}
+REQUEST_URI=/fonpyme/gacela/sociedad/update/images/barra.png
+HTTP_REFERER=http://localhost/fonpyme/gacela/sociedad/update/23
+---
+2016/11/28 13:11:12 [error] [exception.CHttpException.400] CHttpException: Su solicitud es inválida. in /var/www/html/fonpyme/framework/web/CController.php:336
+Stack trace:
+#0 /var/www/html/fonpyme/framework/web/CController.php(309): CController->invalidActionParams(Object(CInlineAction))
+#1 /var/www/html/fonpyme/framework/web/filters/CFilterChain.php(133): CController->runAction(Object(CInlineAction))
+#2 /var/www/html/fonpyme/framework/web/filters/CFilter.php(40): CFilterChain->run()
+#3 /var/www/html/fonpyme/framework/web/CController.php(1145): CFilter->filter(Object(CFilterChain))
+#4 /var/www/html/fonpyme/framework/web/filters/CInlineFilter.php(58): CController->filterAccessControl(Object(CFilterChain))
+#5 /var/www/html/fonpyme/framework/web/filters/CFilterChain.php(130): CInlineFilter->filter(Object(CFilterChain))
+#6 /var/www/html/fonpyme/framework/web/CController.php(291): CFilterChain->run()
+#7 /var/www/html/fonpyme/framework/web/CController.php(265): CController->runActionWithFilters(Object(CInlineAction), Array)
+#8 /var/www/html/fonpyme/framework/web/CWebApplication.php(282): CController->run('update')
+#9 /var/www/html/fonpyme/framework/web/CWebApplication.php(141): CWebApplication->runController('sociedad/update...')
+#10 /var/www/html/fonpyme/framework/base/CApplication.php(185): CWebApplication->processRequest()
+#11 /var/www/html/fonpyme/gacela/index.php(13): CApplication->run()
+#12 {main}
+REQUEST_URI=/fonpyme/gacela/sociedad/update/images/barra.png
+HTTP_REFERER=http://localhost/fonpyme/gacela/sociedad/update/23
+---
+2016/11/28 13:11:41 [error] [exception.CHttpException.400] CHttpException: Su solicitud es inválida. in /var/www/html/fonpyme/framework/web/CController.php:336
+Stack trace:
+#0 /var/www/html/fonpyme/framework/web/CController.php(309): CController->invalidActionParams(Object(CInlineAction))
+#1 /var/www/html/fonpyme/framework/web/filters/CFilterChain.php(133): CController->runAction(Object(CInlineAction))
+#2 /var/www/html/fonpyme/framework/web/filters/CFilter.php(40): CFilterChain->run()
+#3 /var/www/html/fonpyme/framework/web/CController.php(1145): CFilter->filter(Object(CFilterChain))
+#4 /var/www/html/fonpyme/framework/web/filters/CInlineFilter.php(58): CController->filterAccessControl(Object(CFilterChain))
+#5 /var/www/html/fonpyme/framework/web/filters/CFilterChain.php(130): CInlineFilter->filter(Object(CFilterChain))
+#6 /var/www/html/fonpyme/framework/web/CController.php(291): CFilterChain->run()
+#7 /var/www/html/fonpyme/framework/web/CController.php(265): CController->runActionWithFilters(Object(CInlineAction), Array)
+#8 /var/www/html/fonpyme/framework/web/CWebApplication.php(282): CController->run('update')
+#9 /var/www/html/fonpyme/framework/web/CWebApplication.php(141): CWebApplication->runController('sociedad/update...')
+#10 /var/www/html/fonpyme/framework/base/CApplication.php(185): CWebApplication->processRequest()
+#11 /var/www/html/fonpyme/gacela/index.php(13): CApplication->run()
+#12 {main}
+REQUEST_URI=/fonpyme/gacela/sociedad/update/images/barra.png
+HTTP_REFERER=http://localhost/fonpyme/gacela/sociedad/update/23
+---
+2016/11/28 13:11:41 [error] [exception.CHttpException.400] CHttpException: Su solicitud es inválida. in /var/www/html/fonpyme/framework/web/CController.php:336
+Stack trace:
+#0 /var/www/html/fonpyme/framework/web/CController.php(309): CController->invalidActionParams(Object(CInlineAction))
+#1 /var/www/html/fonpyme/framework/web/filters/CFilterChain.php(133): CController->runAction(Object(CInlineAction))
+#2 /var/www/html/fonpyme/framework/web/filters/CFilter.php(40): CFilterChain->run()
+#3 /var/www/html/fonpyme/framework/web/CController.php(1145): CFilter->filter(Object(CFilterChain))
+#4 /var/www/html/fonpyme/framework/web/filters/CInlineFilter.php(58): CController->filterAccessControl(Object(CFilterChain))
+#5 /var/www/html/fonpyme/framework/web/filters/CFilterChain.php(130): CInlineFilter->filter(Object(CFilterChain))
+#6 /var/www/html/fonpyme/framework/web/CController.php(291): CFilterChain->run()
+#7 /var/www/html/fonpyme/framework/web/CController.php(265): CController->runActionWithFilters(Object(CInlineAction), Array)
+#8 /var/www/html/fonpyme/framework/web/CWebApplication.php(282): CController->run('update')
+#9 /var/www/html/fonpyme/framework/web/CWebApplication.php(141): CWebApplication->runController('sociedad/update...')
+#10 /var/www/html/fonpyme/framework/base/CApplication.php(185): CWebApplication->processRequest()
+#11 /var/www/html/fonpyme/gacela/index.php(13): CApplication->run()
+#12 {main}
+REQUEST_URI=/fonpyme/gacela/sociedad/update/images/barra.png
+HTTP_REFERER=http://localhost/fonpyme/gacela/sociedad/update/23
+---
+2016/11/28 13:11:42 [error] [exception.CHttpException.400] CHttpException: Su solicitud es inválida. in /var/www/html/fonpyme/framework/web/CController.php:336
+Stack trace:
+#0 /var/www/html/fonpyme/framework/web/CController.php(309): CController->invalidActionParams(Object(CInlineAction))
+#1 /var/www/html/fonpyme/framework/web/filters/CFilterChain.php(133): CController->runAction(Object(CInlineAction))
+#2 /var/www/html/fonpyme/framework/web/filters/CFilter.php(40): CFilterChain->run()
+#3 /var/www/html/fonpyme/framework/web/CController.php(1145): CFilter->filter(Object(CFilterChain))
+#4 /var/www/html/fonpyme/framework/web/filters/CInlineFilter.php(58): CController->filterAccessControl(Object(CFilterChain))
+#5 /var/www/html/fonpyme/framework/web/filters/CFilterChain.php(130): CInlineFilter->filter(Object(CFilterChain))
+#6 /var/www/html/fonpyme/framework/web/CController.php(291): CFilterChain->run()
+#7 /var/www/html/fonpyme/framework/web/CController.php(265): CController->runActionWithFilters(Object(CInlineAction), Array)
+#8 /var/www/html/fonpyme/framework/web/CWebApplication.php(282): CController->run('update')
+#9 /var/www/html/fonpyme/framework/web/CWebApplication.php(141): CWebApplication->runController('sociedad/update...')
+#10 /var/www/html/fonpyme/framework/base/CApplication.php(185): CWebApplication->processRequest()
+#11 /var/www/html/fonpyme/gacela/index.php(13): CApplication->run()
+#12 {main}
+REQUEST_URI=/fonpyme/gacela/sociedad/update/images/barra.png
+HTTP_REFERER=http://localhost/fonpyme/gacela/sociedad/update/23
+---
+2016/11/28 13:11:42 [error] [exception.CHttpException.400] CHttpException: Su solicitud es inválida. in /var/www/html/fonpyme/framework/web/CController.php:336
+Stack trace:
+#0 /var/www/html/fonpyme/framework/web/CController.php(309): CController->invalidActionParams(Object(CInlineAction))
+#1 /var/www/html/fonpyme/framework/web/filters/CFilterChain.php(133): CController->runAction(Object(CInlineAction))
+#2 /var/www/html/fonpyme/framework/web/filters/CFilter.php(40): CFilterChain->run()
+#3 /var/www/html/fonpyme/framework/web/CController.php(1145): CFilter->filter(Object(CFilterChain))
+#4 /var/www/html/fonpyme/framework/web/filters/CInlineFilter.php(58): CController->filterAccessControl(Object(CFilterChain))
+#5 /var/www/html/fonpyme/framework/web/filters/CFilterChain.php(130): CInlineFilter->filter(Object(CFilterChain))
+#6 /var/www/html/fonpyme/framework/web/CController.php(291): CFilterChain->run()
+#7 /var/www/html/fonpyme/framework/web/CController.php(265): CController->runActionWithFilters(Object(CInlineAction), Array)
+#8 /var/www/html/fonpyme/framework/web/CWebApplication.php(282): CController->run('update')
+#9 /var/www/html/fonpyme/framework/web/CWebApplication.php(141): CWebApplication->runController('sociedad/update...')
+#10 /var/www/html/fonpyme/framework/base/CApplication.php(185): CWebApplication->processRequest()
+#11 /var/www/html/fonpyme/gacela/index.php(13): CApplication->run()
+#12 {main}
+REQUEST_URI=/fonpyme/gacela/sociedad/update/images/barra.png
+HTTP_REFERER=http://localhost/fonpyme/gacela/sociedad/update/23
+---
+2016/11/28 13:12:08 [error] [exception.CHttpException.400] CHttpException: Su solicitud es inválida. in /var/www/html/fonpyme/framework/web/CController.php:336
+Stack trace:
+#0 /var/www/html/fonpyme/framework/web/CController.php(309): CController->invalidActionParams(Object(CInlineAction))
+#1 /var/www/html/fonpyme/framework/web/filters/CFilterChain.php(133): CController->runAction(Object(CInlineAction))
+#2 /var/www/html/fonpyme/framework/web/filters/CFilter.php(40): CFilterChain->run()
+#3 /var/www/html/fonpyme/framework/web/CController.php(1145): CFilter->filter(Object(CFilterChain))
+#4 /var/www/html/fonpyme/framework/web/filters/CInlineFilter.php(58): CController->filterAccessControl(Object(CFilterChain))
+#5 /var/www/html/fonpyme/framework/web/filters/CFilterChain.php(130): CInlineFilter->filter(Object(CFilterChain))
+#6 /var/www/html/fonpyme/framework/web/CController.php(291): CFilterChain->run()
+#7 /var/www/html/fonpyme/framework/web/CController.php(265): CController->runActionWithFilters(Object(CInlineAction), Array)
+#8 /var/www/html/fonpyme/framework/web/CWebApplication.php(282): CController->run('update')
+#9 /var/www/html/fonpyme/framework/web/CWebApplication.php(141): CWebApplication->runController('sociedad/update...')
+#10 /var/www/html/fonpyme/framework/base/CApplication.php(185): CWebApplication->processRequest()
+#11 /var/www/html/fonpyme/gacela/index.php(13): CApplication->run()
+#12 {main}
+REQUEST_URI=/fonpyme/gacela/sociedad/update/images/barra.png
+HTTP_REFERER=http://localhost/fonpyme/gacela/sociedad/update/23
+---
+2016/11/28 13:12:08 [error] [exception.CHttpException.400] CHttpException: Su solicitud es inválida. in /var/www/html/fonpyme/framework/web/CController.php:336
+Stack trace:
+#0 /var/www/html/fonpyme/framework/web/CController.php(309): CController->invalidActionParams(Object(CInlineAction))
+#1 /var/www/html/fonpyme/framework/web/filters/CFilterChain.php(133): CController->runAction(Object(CInlineAction))
+#2 /var/www/html/fonpyme/framework/web/filters/CFilter.php(40): CFilterChain->run()
+#3 /var/www/html/fonpyme/framework/web/CController.php(1145): CFilter->filter(Object(CFilterChain))
+#4 /var/www/html/fonpyme/framework/web/filters/CInlineFilter.php(58): CController->filterAccessControl(Object(CFilterChain))
+#5 /var/www/html/fonpyme/framework/web/filters/CFilterChain.php(130): CInlineFilter->filter(Object(CFilterChain))
+#6 /var/www/html/fonpyme/framework/web/CController.php(291): CFilterChain->run()
+#7 /var/www/html/fonpyme/framework/web/CController.php(265): CController->runActionWithFilters(Object(CInlineAction), Array)
+#8 /var/www/html/fonpyme/framework/web/CWebApplication.php(282): CController->run('update')
+#9 /var/www/html/fonpyme/framework/web/CWebApplication.php(141): CWebApplication->runController('sociedad/update...')
+#10 /var/www/html/fonpyme/framework/base/CApplication.php(185): CWebApplication->processRequest()
+#11 /var/www/html/fonpyme/gacela/index.php(13): CApplication->run()
+#12 {main}
+REQUEST_URI=/fonpyme/gacela/sociedad/update/images/barra.png
+HTTP_REFERER=http://localhost/fonpyme/gacela/sociedad/update/23
+---
+2016/11/28 13:12:27 [error] [exception.CHttpException.400] CHttpException: Su solicitud es inválida. in /var/www/html/fonpyme/framework/web/CController.php:336
+Stack trace:
+#0 /var/www/html/fonpyme/framework/web/CController.php(309): CController->invalidActionParams(Object(CInlineAction))
+#1 /var/www/html/fonpyme/framework/web/filters/CFilterChain.php(133): CController->runAction(Object(CInlineAction))
+#2 /var/www/html/fonpyme/framework/web/filters/CFilter.php(40): CFilterChain->run()
+#3 /var/www/html/fonpyme/framework/web/CController.php(1145): CFilter->filter(Object(CFilterChain))
+#4 /var/www/html/fonpyme/framework/web/filters/CInlineFilter.php(58): CController->filterAccessControl(Object(CFilterChain))
+#5 /var/www/html/fonpyme/framework/web/filters/CFilterChain.php(130): CInlineFilter->filter(Object(CFilterChain))
+#6 /var/www/html/fonpyme/framework/web/CController.php(291): CFilterChain->run()
+#7 /var/www/html/fonpyme/framework/web/CController.php(265): CController->runActionWithFilters(Object(CInlineAction), Array)
+#8 /var/www/html/fonpyme/framework/web/CWebApplication.php(282): CController->run('update')
+#9 /var/www/html/fonpyme/framework/web/CWebApplication.php(141): CWebApplication->runController('sociedad/update...')
+#10 /var/www/html/fonpyme/framework/base/CApplication.php(185): CWebApplication->processRequest()
+#11 /var/www/html/fonpyme/gacela/index.php(13): CApplication->run()
+#12 {main}
+REQUEST_URI=/fonpyme/gacela/sociedad/update/images/barra.png
+HTTP_REFERER=http://localhost/fonpyme/gacela/sociedad/update/23
+---
+2016/11/28 13:12:28 [error] [exception.CHttpException.400] CHttpException: Su solicitud es inválida. in /var/www/html/fonpyme/framework/web/CController.php:336
+Stack trace:
+#0 /var/www/html/fonpyme/framework/web/CController.php(309): CController->invalidActionParams(Object(CInlineAction))
+#1 /var/www/html/fonpyme/framework/web/filters/CFilterChain.php(133): CController->runAction(Object(CInlineAction))
+#2 /var/www/html/fonpyme/framework/web/filters/CFilter.php(40): CFilterChain->run()
+#3 /var/www/html/fonpyme/framework/web/CController.php(1145): CFilter->filter(Object(CFilterChain))
+#4 /var/www/html/fonpyme/framework/web/filters/CInlineFilter.php(58): CController->filterAccessControl(Object(CFilterChain))
+#5 /var/www/html/fonpyme/framework/web/filters/CFilterChain.php(130): CInlineFilter->filter(Object(CFilterChain))
+#6 /var/www/html/fonpyme/framework/web/CController.php(291): CFilterChain->run()
+#7 /var/www/html/fonpyme/framework/web/CController.php(265): CController->runActionWithFilters(Object(CInlineAction), Array)
+#8 /var/www/html/fonpyme/framework/web/CWebApplication.php(282): CController->run('update')
+#9 /var/www/html/fonpyme/framework/web/CWebApplication.php(141): CWebApplication->runController('sociedad/update...')
+#10 /var/www/html/fonpyme/framework/base/CApplication.php(185): CWebApplication->processRequest()
+#11 /var/www/html/fonpyme/gacela/index.php(13): CApplication->run()
+#12 {main}
+REQUEST_URI=/fonpyme/gacela/sociedad/update/images/barra.png
+HTTP_REFERER=http://localhost/fonpyme/gacela/sociedad/update/23
+---
+2016/11/28 13:13:29 [error] [exception.CHttpException.400] CHttpException: Su solicitud es inválida. in /var/www/html/fonpyme/framework/web/CController.php:336
+Stack trace:
+#0 /var/www/html/fonpyme/framework/web/CController.php(309): CController->invalidActionParams(Object(CInlineAction))
+#1 /var/www/html/fonpyme/framework/web/filters/CFilterChain.php(133): CController->runAction(Object(CInlineAction))
+#2 /var/www/html/fonpyme/framework/web/filters/CFilter.php(40): CFilterChain->run()
+#3 /var/www/html/fonpyme/framework/web/CController.php(1145): CFilter->filter(Object(CFilterChain))
+#4 /var/www/html/fonpyme/framework/web/filters/CInlineFilter.php(58): CController->filterAccessControl(Object(CFilterChain))
+#5 /var/www/html/fonpyme/framework/web/filters/CFilterChain.php(130): CInlineFilter->filter(Object(CFilterChain))
+#6 /var/www/html/fonpyme/framework/web/CController.php(291): CFilterChain->run()
+#7 /var/www/html/fonpyme/framework/web/CController.php(265): CController->runActionWithFilters(Object(CInlineAction), Array)
+#8 /var/www/html/fonpyme/framework/web/CWebApplication.php(282): CController->run('update')
+#9 /var/www/html/fonpyme/framework/web/CWebApplication.php(141): CWebApplication->runController('sociedad/update...')
+#10 /var/www/html/fonpyme/framework/base/CApplication.php(185): CWebApplication->processRequest()
+#11 /var/www/html/fonpyme/gacela/index.php(13): CApplication->run()
+#12 {main}
+REQUEST_URI=/fonpyme/gacela/sociedad/update/images/barra.png
+HTTP_REFERER=http://localhost/fonpyme/gacela/sociedad/update/23
+---
+2016/11/28 13:13:29 [error] [exception.CHttpException.400] CHttpException: Su solicitud es inválida. in /var/www/html/fonpyme/framework/web/CController.php:336
+Stack trace:
+#0 /var/www/html/fonpyme/framework/web/CController.php(309): CController->invalidActionParams(Object(CInlineAction))
+#1 /var/www/html/fonpyme/framework/web/filters/CFilterChain.php(133): CController->runAction(Object(CInlineAction))
+#2 /var/www/html/fonpyme/framework/web/filters/CFilter.php(40): CFilterChain->run()
+#3 /var/www/html/fonpyme/framework/web/CController.php(1145): CFilter->filter(Object(CFilterChain))
+#4 /var/www/html/fonpyme/framework/web/filters/CInlineFilter.php(58): CController->filterAccessControl(Object(CFilterChain))
+#5 /var/www/html/fonpyme/framework/web/filters/CFilterChain.php(130): CInlineFilter->filter(Object(CFilterChain))
+#6 /var/www/html/fonpyme/framework/web/CController.php(291): CFilterChain->run()
+#7 /var/www/html/fonpyme/framework/web/CController.php(265): CController->runActionWithFilters(Object(CInlineAction), Array)
+#8 /var/www/html/fonpyme/framework/web/CWebApplication.php(282): CController->run('update')
+#9 /var/www/html/fonpyme/framework/web/CWebApplication.php(141): CWebApplication->runController('sociedad/update...')
+#10 /var/www/html/fonpyme/framework/base/CApplication.php(185): CWebApplication->processRequest()
+#11 /var/www/html/fonpyme/gacela/index.php(13): CApplication->run()
+#12 {main}
+REQUEST_URI=/fonpyme/gacela/sociedad/update/images/barra.png
+HTTP_REFERER=http://localhost/fonpyme/gacela/sociedad/update/23
+---
+2016/11/28 13:13:42 [error] [exception.CHttpException.400] CHttpException: Su solicitud es inválida. in /var/www/html/fonpyme/framework/web/CController.php:336
+Stack trace:
+#0 /var/www/html/fonpyme/framework/web/CController.php(309): CController->invalidActionParams(Object(CInlineAction))
+#1 /var/www/html/fonpyme/framework/web/filters/CFilterChain.php(133): CController->runAction(Object(CInlineAction))
+#2 /var/www/html/fonpyme/framework/web/filters/CFilter.php(40): CFilterChain->run()
+#3 /var/www/html/fonpyme/framework/web/CController.php(1145): CFilter->filter(Object(CFilterChain))
+#4 /var/www/html/fonpyme/framework/web/filters/CInlineFilter.php(58): CController->filterAccessControl(Object(CFilterChain))
+#5 /var/www/html/fonpyme/framework/web/filters/CFilterChain.php(130): CInlineFilter->filter(Object(CFilterChain))
+#6 /var/www/html/fonpyme/framework/web/CController.php(291): CFilterChain->run()
+#7 /var/www/html/fonpyme/framework/web/CController.php(265): CController->runActionWithFilters(Object(CInlineAction), Array)
+#8 /var/www/html/fonpyme/framework/web/CWebApplication.php(282): CController->run('update')
+#9 /var/www/html/fonpyme/framework/web/CWebApplication.php(141): CWebApplication->runController('sociedad/update...')
+#10 /var/www/html/fonpyme/framework/base/CApplication.php(185): CWebApplication->processRequest()
+#11 /var/www/html/fonpyme/gacela/index.php(13): CApplication->run()
+#12 {main}
+REQUEST_URI=/fonpyme/gacela/sociedad/update/images/barra.png
+HTTP_REFERER=http://localhost/fonpyme/gacela/sociedad/update/23
+---
+2016/11/28 13:13:42 [error] [exception.CHttpException.400] CHttpException: Su solicitud es inválida. in /var/www/html/fonpyme/framework/web/CController.php:336
+Stack trace:
+#0 /var/www/html/fonpyme/framework/web/CController.php(309): CController->invalidActionParams(Object(CInlineAction))
+#1 /var/www/html/fonpyme/framework/web/filters/CFilterChain.php(133): CController->runAction(Object(CInlineAction))
+#2 /var/www/html/fonpyme/framework/web/filters/CFilter.php(40): CFilterChain->run()
+#3 /var/www/html/fonpyme/framework/web/CController.php(1145): CFilter->filter(Object(CFilterChain))
+#4 /var/www/html/fonpyme/framework/web/filters/CInlineFilter.php(58): CController->filterAccessControl(Object(CFilterChain))
+#5 /var/www/html/fonpyme/framework/web/filters/CFilterChain.php(130): CInlineFilter->filter(Object(CFilterChain))
+#6 /var/www/html/fonpyme/framework/web/CController.php(291): CFilterChain->run()
+#7 /var/www/html/fonpyme/framework/web/CController.php(265): CController->runActionWithFilters(Object(CInlineAction), Array)
+#8 /var/www/html/fonpyme/framework/web/CWebApplication.php(282): CController->run('update')
+#9 /var/www/html/fonpyme/framework/web/CWebApplication.php(141): CWebApplication->runController('sociedad/update...')
+#10 /var/www/html/fonpyme/framework/base/CApplication.php(185): CWebApplication->processRequest()
+#11 /var/www/html/fonpyme/gacela/index.php(13): CApplication->run()
+#12 {main}
+REQUEST_URI=/fonpyme/gacela/sociedad/update/images/barra.png
+HTTP_REFERER=http://localhost/fonpyme/gacela/sociedad/update/23
+---
+2016/11/28 13:13:48 [error] [exception.CHttpException.400] CHttpException: Su solicitud es inválida. in /var/www/html/fonpyme/framework/web/CController.php:336
+Stack trace:
+#0 /var/www/html/fonpyme/framework/web/CController.php(309): CController->invalidActionParams(Object(CInlineAction))
+#1 /var/www/html/fonpyme/framework/web/filters/CFilterChain.php(133): CController->runAction(Object(CInlineAction))
+#2 /var/www/html/fonpyme/framework/web/filters/CFilter.php(40): CFilterChain->run()
+#3 /var/www/html/fonpyme/framework/web/CController.php(1145): CFilter->filter(Object(CFilterChain))
+#4 /var/www/html/fonpyme/framework/web/filters/CInlineFilter.php(58): CController->filterAccessControl(Object(CFilterChain))
+#5 /var/www/html/fonpyme/framework/web/filters/CFilterChain.php(130): CInlineFilter->filter(Object(CFilterChain))
+#6 /var/www/html/fonpyme/framework/web/CController.php(291): CFilterChain->run()
+#7 /var/www/html/fonpyme/framework/web/CController.php(265): CController->runActionWithFilters(Object(CInlineAction), Array)
+#8 /var/www/html/fonpyme/framework/web/CWebApplication.php(282): CController->run('update')
+#9 /var/www/html/fonpyme/framework/web/CWebApplication.php(141): CWebApplication->runController('sociedad/update...')
+#10 /var/www/html/fonpyme/framework/base/CApplication.php(185): CWebApplication->processRequest()
+#11 /var/www/html/fonpyme/gacela/index.php(13): CApplication->run()
+#12 {main}
+REQUEST_URI=/fonpyme/gacela/sociedad/update/images/barra.png
+HTTP_REFERER=http://localhost/fonpyme/gacela/sociedad/update/23
+---
+2016/11/28 13:13:48 [error] [exception.CHttpException.400] CHttpException: Su solicitud es inválida. in /var/www/html/fonpyme/framework/web/CController.php:336
+Stack trace:
+#0 /var/www/html/fonpyme/framework/web/CController.php(309): CController->invalidActionParams(Object(CInlineAction))
+#1 /var/www/html/fonpyme/framework/web/filters/CFilterChain.php(133): CController->runAction(Object(CInlineAction))
+#2 /var/www/html/fonpyme/framework/web/filters/CFilter.php(40): CFilterChain->run()
+#3 /var/www/html/fonpyme/framework/web/CController.php(1145): CFilter->filter(Object(CFilterChain))
+#4 /var/www/html/fonpyme/framework/web/filters/CInlineFilter.php(58): CController->filterAccessControl(Object(CFilterChain))
+#5 /var/www/html/fonpyme/framework/web/filters/CFilterChain.php(130): CInlineFilter->filter(Object(CFilterChain))
+#6 /var/www/html/fonpyme/framework/web/CController.php(291): CFilterChain->run()
+#7 /var/www/html/fonpyme/framework/web/CController.php(265): CController->runActionWithFilters(Object(CInlineAction), Array)
+#8 /var/www/html/fonpyme/framework/web/CWebApplication.php(282): CController->run('update')
+#9 /var/www/html/fonpyme/framework/web/CWebApplication.php(141): CWebApplication->runController('sociedad/update...')
+#10 /var/www/html/fonpyme/framework/base/CApplication.php(185): CWebApplication->processRequest()
+#11 /var/www/html/fonpyme/gacela/index.php(13): CApplication->run()
+#12 {main}
+REQUEST_URI=/fonpyme/gacela/sociedad/update/images/barra.png
+HTTP_REFERER=http://localhost/fonpyme/gacela/sociedad/update/23
+---
+2016/11/28 13:13:48 [error] [exception.CHttpException.400] CHttpException: Su solicitud es inválida. in /var/www/html/fonpyme/framework/web/CController.php:336
+Stack trace:
+#0 /var/www/html/fonpyme/framework/web/CController.php(309): CController->invalidActionParams(Object(CInlineAction))
+#1 /var/www/html/fonpyme/framework/web/filters/CFilterChain.php(133): CController->runAction(Object(CInlineAction))
+#2 /var/www/html/fonpyme/framework/web/filters/CFilter.php(40): CFilterChain->run()
+#3 /var/www/html/fonpyme/framework/web/CController.php(1145): CFilter->filter(Object(CFilterChain))
+#4 /var/www/html/fonpyme/framework/web/filters/CInlineFilter.php(58): CController->filterAccessControl(Object(CFilterChain))
+#5 /var/www/html/fonpyme/framework/web/filters/CFilterChain.php(130): CInlineFilter->filter(Object(CFilterChain))
+#6 /var/www/html/fonpyme/framework/web/CController.php(291): CFilterChain->run()
+#7 /var/www/html/fonpyme/framework/web/CController.php(265): CController->runActionWithFilters(Object(CInlineAction), Array)
+#8 /var/www/html/fonpyme/framework/web/CWebApplication.php(282): CController->run('update')
+#9 /var/www/html/fonpyme/framework/web/CWebApplication.php(141): CWebApplication->runController('sociedad/update...')
+#10 /var/www/html/fonpyme/framework/base/CApplication.php(185): CWebApplication->processRequest()
+#11 /var/www/html/fonpyme/gacela/index.php(13): CApplication->run()
+#12 {main}
+REQUEST_URI=/fonpyme/gacela/sociedad/update/images/barra.png
+HTTP_REFERER=http://localhost/fonpyme/gacela/sociedad/update/23
+---
+2016/11/28 13:13:49 [error] [exception.CHttpException.400] CHttpException: Su solicitud es inválida. in /var/www/html/fonpyme/framework/web/CController.php:336
+Stack trace:
+#0 /var/www/html/fonpyme/framework/web/CController.php(309): CController->invalidActionParams(Object(CInlineAction))
+#1 /var/www/html/fonpyme/framework/web/filters/CFilterChain.php(133): CController->runAction(Object(CInlineAction))
+#2 /var/www/html/fonpyme/framework/web/filters/CFilter.php(40): CFilterChain->run()
+#3 /var/www/html/fonpyme/framework/web/CController.php(1145): CFilter->filter(Object(CFilterChain))
+#4 /var/www/html/fonpyme/framework/web/filters/CInlineFilter.php(58): CController->filterAccessControl(Object(CFilterChain))
+#5 /var/www/html/fonpyme/framework/web/filters/CFilterChain.php(130): CInlineFilter->filter(Object(CFilterChain))
+#6 /var/www/html/fonpyme/framework/web/CController.php(291): CFilterChain->run()
+#7 /var/www/html/fonpyme/framework/web/CController.php(265): CController->runActionWithFilters(Object(CInlineAction), Array)
+#8 /var/www/html/fonpyme/framework/web/CWebApplication.php(282): CController->run('update')
+#9 /var/www/html/fonpyme/framework/web/CWebApplication.php(141): CWebApplication->runController('sociedad/update...')
+#10 /var/www/html/fonpyme/framework/base/CApplication.php(185): CWebApplication->processRequest()
+#11 /var/www/html/fonpyme/gacela/index.php(13): CApplication->run()
+#12 {main}
+REQUEST_URI=/fonpyme/gacela/sociedad/update/images/barra.png
+HTTP_REFERER=http://localhost/fonpyme/gacela/sociedad/update/23
+---
+2016/11/28 13:14:26 [error] [exception.CException] CException: SociedadController no ha podido encontrar la vista "_integranteData" solicitada. in /var/www/html/fonpyme/framework/web/CController.php:878
+Stack trace:
+#0 /var/www/html/fonpyme/gacela/protected/extensions/booster/widgets/TbTabView.php(111): CController->renderPartial('_integranteData', Array, true)
+#1 /var/www/html/fonpyme/gacela/protected/extensions/booster/widgets/TbTabs.php(133): TbTabView->normalizeTabs(Array, Array)
+#2 /var/www/html/fonpyme/framework/web/CBaseController.php(181): TbTabs->run()
+#3 /var/www/html/fonpyme/gacela/protected/views/sociedad/_form.php(21): CBaseController->widget('booster.widgets...', Array)
+#4 /var/www/html/fonpyme/framework/web/CBaseController.php(126): require('/var/www/html/f...')
+#5 /var/www/html/fonpyme/framework/web/CBaseController.php(95): CBaseController->renderInternal('/var/www/html/f...', Array, true)
+#6 /var/www/html/fonpyme/framework/web/CController.php(869): CBaseController->renderFile('/var/www/html/f...', Array, true)
+#7 /var/www/html/fonpyme/gacela/protected/views/sociedad/update.php(25): CController->renderPartial('_form', Array)
+#8 /var/www/html/fonpyme/framework/web/CBaseController.php(126): require('/var/www/html/f...')
+#9 /var/www/html/fonpyme/framework/web/CBaseController.php(95): CBaseController->renderInternal('/var/www/html/f...', Array, true)
+#10 /var/www/html/fonpyme/framework/web/CController.php(869): CBaseController->renderFile('/var/www/html/f...', Array, true)
+#11 /var/www/html/fonpyme/framework/web/CController.php(782): CController->renderPartial('update', Array, true)
+#12 /var/www/html/fonpyme/gacela/protected/controllers/SociedadController.php(330): CController->render('update', Array)
+#13 [internal function]: SociedadController->actionUpdate('23')
+#14 /var/www/html/fonpyme/framework/web/actions/CAction.php(109): ReflectionMethod->invokeArgs(Object(SociedadController), Array)
+#15 /var/www/html/fonpyme/framework/web/actions/CInlineAction.php(47): CAction->runWithParamsInternal(Object(SociedadController), Object(ReflectionMethod), Array)
+#16 /var/www/html/fonpyme/framework/web/CController.php(308): CInlineAction->runWithParams(Array)
+#17 /var/www/html/fonpyme/framework/web/filters/CFilterChain.php(133): CController->runAction(Object(CInlineAction))
+#18 /var/www/html/fonpyme/framework/web/filters/CFilter.php(40): CFilterChain->run()
+#19 /var/www/html/fonpyme/framework/web/CController.php(1145): CFilter->filter(Object(CFilterChain))
+#20 /var/www/html/fonpyme/framework/web/filters/CInlineFilter.php(58): CController->filterAccessControl(Object(CFilterChain))
+#21 /var/www/html/fonpyme/framework/web/filters/CFilterChain.php(130): CInlineFilter->filter(Object(CFilterChain))
+#22 /var/www/html/fonpyme/framework/web/CController.php(291): CFilterChain->run()
+#23 /var/www/html/fonpyme/framework/web/CController.php(265): CController->runActionWithFilters(Object(CInlineAction), Array)
+#24 /var/www/html/fonpyme/framework/web/CWebApplication.php(282): CController->run('update')
+#25 /var/www/html/fonpyme/framework/web/CWebApplication.php(141): CWebApplication->runController('sociedad/update')
+#26 /var/www/html/fonpyme/framework/base/CApplication.php(185): CWebApplication->processRequest()
+#27 /var/www/html/fonpyme/gacela/index.php(13): CApplication->run()
+#28 {main}
+REQUEST_URI=/fonpyme/gacela/sociedad/update/23
+HTTP_REFERER=http://localhost/fonpyme/gacela/sociedad/update/23
+---
+2016/11/28 13:14:36 [error] [exception.CHttpException.400] CHttpException: Su solicitud es inválida. in /var/www/html/fonpyme/framework/web/CController.php:336
+Stack trace:
+#0 /var/www/html/fonpyme/framework/web/CController.php(309): CController->invalidActionParams(Object(CInlineAction))
+#1 /var/www/html/fonpyme/framework/web/filters/CFilterChain.php(133): CController->runAction(Object(CInlineAction))
+#2 /var/www/html/fonpyme/framework/web/filters/CFilter.php(40): CFilterChain->run()
+#3 /var/www/html/fonpyme/framework/web/CController.php(1145): CFilter->filter(Object(CFilterChain))
+#4 /var/www/html/fonpyme/framework/web/filters/CInlineFilter.php(58): CController->filterAccessControl(Object(CFilterChain))
+#5 /var/www/html/fonpyme/framework/web/filters/CFilterChain.php(130): CInlineFilter->filter(Object(CFilterChain))
+#6 /var/www/html/fonpyme/framework/web/CController.php(291): CFilterChain->run()
+#7 /var/www/html/fonpyme/framework/web/CController.php(265): CController->runActionWithFilters(Object(CInlineAction), Array)
+#8 /var/www/html/fonpyme/framework/web/CWebApplication.php(282): CController->run('update')
+#9 /var/www/html/fonpyme/framework/web/CWebApplication.php(141): CWebApplication->runController('sociedad/update...')
+#10 /var/www/html/fonpyme/framework/base/CApplication.php(185): CWebApplication->processRequest()
+#11 /var/www/html/fonpyme/gacela/index.php(13): CApplication->run()
+#12 {main}
+REQUEST_URI=/fonpyme/gacela/sociedad/update/images/barra.png
+HTTP_REFERER=http://localhost/fonpyme/gacela/sociedad/update/23
+---
+2016/11/28 13:14:36 [error] [exception.CHttpException.400] CHttpException: Su solicitud es inválida. in /var/www/html/fonpyme/framework/web/CController.php:336
+Stack trace:
+#0 /var/www/html/fonpyme/framework/web/CController.php(309): CController->invalidActionParams(Object(CInlineAction))
+#1 /var/www/html/fonpyme/framework/web/filters/CFilterChain.php(133): CController->runAction(Object(CInlineAction))
+#2 /var/www/html/fonpyme/framework/web/filters/CFilter.php(40): CFilterChain->run()
+#3 /var/www/html/fonpyme/framework/web/CController.php(1145): CFilter->filter(Object(CFilterChain))
+#4 /var/www/html/fonpyme/framework/web/filters/CInlineFilter.php(58): CController->filterAccessControl(Object(CFilterChain))
+#5 /var/www/html/fonpyme/framework/web/filters/CFilterChain.php(130): CInlineFilter->filter(Object(CFilterChain))
+#6 /var/www/html/fonpyme/framework/web/CController.php(291): CFilterChain->run()
+#7 /var/www/html/fonpyme/framework/web/CController.php(265): CController->runActionWithFilters(Object(CInlineAction), Array)
+#8 /var/www/html/fonpyme/framework/web/CWebApplication.php(282): CController->run('update')
+#9 /var/www/html/fonpyme/framework/web/CWebApplication.php(141): CWebApplication->runController('sociedad/update...')
+#10 /var/www/html/fonpyme/framework/base/CApplication.php(185): CWebApplication->processRequest()
+#11 /var/www/html/fonpyme/gacela/index.php(13): CApplication->run()
+#12 {main}
+REQUEST_URI=/fonpyme/gacela/sociedad/update/images/barra.png
+HTTP_REFERER=http://localhost/fonpyme/gacela/sociedad/update/23
+---
+2016/11/28 13:14:43 [error] [exception.CHttpException.404] CHttpException: El sistema no ha podido encontrar la acción "images" solicitada. in /var/www/html/fonpyme/framework/web/CController.php:483
+Stack trace:
+#0 /var/www/html/fonpyme/framework/web/CController.php(270): CController->missingAction('images')
+#1 /var/www/html/fonpyme/framework/web/CWebApplication.php(282): CController->run('images')
+#2 /var/www/html/fonpyme/framework/web/CWebApplication.php(141): CWebApplication->runController('site/images/bar...')
+#3 /var/www/html/fonpyme/framework/base/CApplication.php(185): CWebApplication->processRequest()
+#4 /var/www/html/fonpyme/gacela/index.php(13): CApplication->run()
+#5 {main}
+REQUEST_URI=/fonpyme/gacela/site/images/barra.png
+HTTP_REFERER=http://localhost/fonpyme/gacela/site/login
+---
+2016/11/28 13:14:44 [error] [exception.CHttpException.404] CHttpException: El sistema no ha podido encontrar la acción "images" solicitada. in /var/www/html/fonpyme/framework/web/CController.php:483
+Stack trace:
+#0 /var/www/html/fonpyme/framework/web/CController.php(270): CController->missingAction('images')
+#1 /var/www/html/fonpyme/framework/web/CWebApplication.php(282): CController->run('images')
+#2 /var/www/html/fonpyme/framework/web/CWebApplication.php(141): CWebApplication->runController('site/images/bar...')
+#3 /var/www/html/fonpyme/framework/base/CApplication.php(185): CWebApplication->processRequest()
+#4 /var/www/html/fonpyme/gacela/index.php(13): CApplication->run()
+#5 {main}
+REQUEST_URI=/fonpyme/gacela/site/images/barra.png
+HTTP_REFERER=http://localhost/fonpyme/gacela/site/login
+---
+2016/11/28 13:14:57 [error] [exception.CHttpException.400] CHttpException: Su solicitud es inválida. in /var/www/html/fonpyme/framework/web/CController.php:336
+Stack trace:
+#0 /var/www/html/fonpyme/framework/web/CController.php(309): CController->invalidActionParams(Object(CInlineAction))
+#1 /var/www/html/fonpyme/framework/web/filters/CFilterChain.php(133): CController->runAction(Object(CInlineAction))
+#2 /var/www/html/fonpyme/framework/web/filters/CFilter.php(40): CFilterChain->run()
+#3 /var/www/html/fonpyme/framework/web/CController.php(1145): CFilter->filter(Object(CFilterChain))
+#4 /var/www/html/fonpyme/framework/web/filters/CInlineFilter.php(58): CController->filterAccessControl(Object(CFilterChain))
+#5 /var/www/html/fonpyme/framework/web/filters/CFilterChain.php(130): CInlineFilter->filter(Object(CFilterChain))
+#6 /var/www/html/fonpyme/framework/web/CController.php(291): CFilterChain->run()
+#7 /var/www/html/fonpyme/framework/web/CController.php(265): CController->runActionWithFilters(Object(CInlineAction), Array)
+#8 /var/www/html/fonpyme/framework/web/CWebApplication.php(282): CController->run('update')
+#9 /var/www/html/fonpyme/framework/web/CWebApplication.php(141): CWebApplication->runController('sociedad/update...')
+#10 /var/www/html/fonpyme/framework/base/CApplication.php(185): CWebApplication->processRequest()
+#11 /var/www/html/fonpyme/gacela/index.php(13): CApplication->run()
+#12 {main}
+REQUEST_URI=/fonpyme/gacela/sociedad/update/images/barra.png
+HTTP_REFERER=http://localhost/fonpyme/gacela/sociedad/update/23
+---
+2016/11/28 13:14:57 [error] [exception.CHttpException.400] CHttpException: Su solicitud es inválida. in /var/www/html/fonpyme/framework/web/CController.php:336
+Stack trace:
+#0 /var/www/html/fonpyme/framework/web/CController.php(309): CController->invalidActionParams(Object(CInlineAction))
+#1 /var/www/html/fonpyme/framework/web/filters/CFilterChain.php(133): CController->runAction(Object(CInlineAction))
+#2 /var/www/html/fonpyme/framework/web/filters/CFilter.php(40): CFilterChain->run()
+#3 /var/www/html/fonpyme/framework/web/CController.php(1145): CFilter->filter(Object(CFilterChain))
+#4 /var/www/html/fonpyme/framework/web/filters/CInlineFilter.php(58): CController->filterAccessControl(Object(CFilterChain))
+#5 /var/www/html/fonpyme/framework/web/filters/CFilterChain.php(130): CInlineFilter->filter(Object(CFilterChain))
+#6 /var/www/html/fonpyme/framework/web/CController.php(291): CFilterChain->run()
+#7 /var/www/html/fonpyme/framework/web/CController.php(265): CController->runActionWithFilters(Object(CInlineAction), Array)
+#8 /var/www/html/fonpyme/framework/web/CWebApplication.php(282): CController->run('update')
+#9 /var/www/html/fonpyme/framework/web/CWebApplication.php(141): CWebApplication->runController('sociedad/update...')
+#10 /var/www/html/fonpyme/framework/base/CApplication.php(185): CWebApplication->processRequest()
+#11 /var/www/html/fonpyme/gacela/index.php(13): CApplication->run()
+#12 {main}
+REQUEST_URI=/fonpyme/gacela/sociedad/update/images/barra.png
+HTTP_REFERER=http://localhost/fonpyme/gacela/sociedad/update/23
+---
+2016/11/28 13:15:23 [error] [exception.CHttpException.400] CHttpException: Su solicitud es inválida. in /var/www/html/fonpyme/framework/web/CController.php:336
+Stack trace:
+#0 /var/www/html/fonpyme/framework/web/CController.php(309): CController->invalidActionParams(Object(CInlineAction))
+#1 /var/www/html/fonpyme/framework/web/filters/CFilterChain.php(133): CController->runAction(Object(CInlineAction))
+#2 /var/www/html/fonpyme/framework/web/filters/CFilter.php(40): CFilterChain->run()
+#3 /var/www/html/fonpyme/framework/web/CController.php(1145): CFilter->filter(Object(CFilterChain))
+#4 /var/www/html/fonpyme/framework/web/filters/CInlineFilter.php(58): CController->filterAccessControl(Object(CFilterChain))
+#5 /var/www/html/fonpyme/framework/web/filters/CFilterChain.php(130): CInlineFilter->filter(Object(CFilterChain))
+#6 /var/www/html/fonpyme/framework/web/CController.php(291): CFilterChain->run()
+#7 /var/www/html/fonpyme/framework/web/CController.php(265): CController->runActionWithFilters(Object(CInlineAction), Array)
+#8 /var/www/html/fonpyme/framework/web/CWebApplication.php(282): CController->run('update')
+#9 /var/www/html/fonpyme/framework/web/CWebApplication.php(141): CWebApplication->runController('sociedad/update...')
+#10 /var/www/html/fonpyme/framework/base/CApplication.php(185): CWebApplication->processRequest()
+#11 /var/www/html/fonpyme/gacela/index.php(13): CApplication->run()
+#12 {main}
+REQUEST_URI=/fonpyme/gacela/sociedad/update/images/barra.png
+HTTP_REFERER=http://localhost/fonpyme/gacela/sociedad/update/23
+---
+2016/11/28 13:15:23 [error] [exception.CHttpException.400] CHttpException: Su solicitud es inválida. in /var/www/html/fonpyme/framework/web/CController.php:336
+Stack trace:
+#0 /var/www/html/fonpyme/framework/web/CController.php(309): CController->invalidActionParams(Object(CInlineAction))
+#1 /var/www/html/fonpyme/framework/web/filters/CFilterChain.php(133): CController->runAction(Object(CInlineAction))
+#2 /var/www/html/fonpyme/framework/web/filters/CFilter.php(40): CFilterChain->run()
+#3 /var/www/html/fonpyme/framework/web/CController.php(1145): CFilter->filter(Object(CFilterChain))
+#4 /var/www/html/fonpyme/framework/web/filters/CInlineFilter.php(58): CController->filterAccessControl(Object(CFilterChain))
+#5 /var/www/html/fonpyme/framework/web/filters/CFilterChain.php(130): CInlineFilter->filter(Object(CFilterChain))
+#6 /var/www/html/fonpyme/framework/web/CController.php(291): CFilterChain->run()
+#7 /var/www/html/fonpyme/framework/web/CController.php(265): CController->runActionWithFilters(Object(CInlineAction), Array)
+#8 /var/www/html/fonpyme/framework/web/CWebApplication.php(282): CController->run('update')
+#9 /var/www/html/fonpyme/framework/web/CWebApplication.php(141): CWebApplication->runController('sociedad/update...')
+#10 /var/www/html/fonpyme/framework/base/CApplication.php(185): CWebApplication->processRequest()
+#11 /var/www/html/fonpyme/gacela/index.php(13): CApplication->run()
+#12 {main}
+REQUEST_URI=/fonpyme/gacela/sociedad/update/images/barra.png
+HTTP_REFERER=http://localhost/fonpyme/gacela/sociedad/update/23
+---
+2016/11/28 13:15:42 [error] [exception.CHttpException.400] CHttpException: Su solicitud es inválida. in /var/www/html/fonpyme/framework/web/CController.php:336
+Stack trace:
+#0 /var/www/html/fonpyme/framework/web/CController.php(309): CController->invalidActionParams(Object(CInlineAction))
+#1 /var/www/html/fonpyme/framework/web/filters/CFilterChain.php(133): CController->runAction(Object(CInlineAction))
+#2 /var/www/html/fonpyme/framework/web/filters/CFilter.php(40): CFilterChain->run()
+#3 /var/www/html/fonpyme/framework/web/CController.php(1145): CFilter->filter(Object(CFilterChain))
+#4 /var/www/html/fonpyme/framework/web/filters/CInlineFilter.php(58): CController->filterAccessControl(Object(CFilterChain))
+#5 /var/www/html/fonpyme/framework/web/filters/CFilterChain.php(130): CInlineFilter->filter(Object(CFilterChain))
+#6 /var/www/html/fonpyme/framework/web/CController.php(291): CFilterChain->run()
+#7 /var/www/html/fonpyme/framework/web/CController.php(265): CController->runActionWithFilters(Object(CInlineAction), Array)
+#8 /var/www/html/fonpyme/framework/web/CWebApplication.php(282): CController->run('update')
+#9 /var/www/html/fonpyme/framework/web/CWebApplication.php(141): CWebApplication->runController('sociedad/update...')
+#10 /var/www/html/fonpyme/framework/base/CApplication.php(185): CWebApplication->processRequest()
+#11 /var/www/html/fonpyme/gacela/index.php(13): CApplication->run()
+#12 {main}
+REQUEST_URI=/fonpyme/gacela/sociedad/update/images/barra.png
+HTTP_REFERER=http://localhost/fonpyme/gacela/sociedad/update/23
+---
+2016/11/28 13:15:42 [error] [exception.CHttpException.400] CHttpException: Su solicitud es inválida. in /var/www/html/fonpyme/framework/web/CController.php:336
+Stack trace:
+#0 /var/www/html/fonpyme/framework/web/CController.php(309): CController->invalidActionParams(Object(CInlineAction))
+#1 /var/www/html/fonpyme/framework/web/filters/CFilterChain.php(133): CController->runAction(Object(CInlineAction))
+#2 /var/www/html/fonpyme/framework/web/filters/CFilter.php(40): CFilterChain->run()
+#3 /var/www/html/fonpyme/framework/web/CController.php(1145): CFilter->filter(Object(CFilterChain))
+#4 /var/www/html/fonpyme/framework/web/filters/CInlineFilter.php(58): CController->filterAccessControl(Object(CFilterChain))
+#5 /var/www/html/fonpyme/framework/web/filters/CFilterChain.php(130): CInlineFilter->filter(Object(CFilterChain))
+#6 /var/www/html/fonpyme/framework/web/CController.php(291): CFilterChain->run()
+#7 /var/www/html/fonpyme/framework/web/CController.php(265): CController->runActionWithFilters(Object(CInlineAction), Array)
+#8 /var/www/html/fonpyme/framework/web/CWebApplication.php(282): CController->run('update')
+#9 /var/www/html/fonpyme/framework/web/CWebApplication.php(141): CWebApplication->runController('sociedad/update...')
+#10 /var/www/html/fonpyme/framework/base/CApplication.php(185): CWebApplication->processRequest()
+#11 /var/www/html/fonpyme/gacela/index.php(13): CApplication->run()
+#12 {main}
+REQUEST_URI=/fonpyme/gacela/sociedad/update/images/barra.png
+HTTP_REFERER=http://localhost/fonpyme/gacela/sociedad/update/23
+---
+2016/11/28 13:16:09 [error] [exception.CHttpException.400] CHttpException: Su solicitud es inválida. in /var/www/html/fonpyme/framework/web/CController.php:336
+Stack trace:
+#0 /var/www/html/fonpyme/framework/web/CController.php(309): CController->invalidActionParams(Object(CInlineAction))
+#1 /var/www/html/fonpyme/framework/web/filters/CFilterChain.php(133): CController->runAction(Object(CInlineAction))
+#2 /var/www/html/fonpyme/framework/web/filters/CFilter.php(40): CFilterChain->run()
+#3 /var/www/html/fonpyme/framework/web/CController.php(1145): CFilter->filter(Object(CFilterChain))
+#4 /var/www/html/fonpyme/framework/web/filters/CInlineFilter.php(58): CController->filterAccessControl(Object(CFilterChain))
+#5 /var/www/html/fonpyme/framework/web/filters/CFilterChain.php(130): CInlineFilter->filter(Object(CFilterChain))
+#6 /var/www/html/fonpyme/framework/web/CController.php(291): CFilterChain->run()
+#7 /var/www/html/fonpyme/framework/web/CController.php(265): CController->runActionWithFilters(Object(CInlineAction), Array)
+#8 /var/www/html/fonpyme/framework/web/CWebApplication.php(282): CController->run('update')
+#9 /var/www/html/fonpyme/framework/web/CWebApplication.php(141): CWebApplication->runController('sociedad/update...')
+#10 /var/www/html/fonpyme/framework/base/CApplication.php(185): CWebApplication->processRequest()
+#11 /var/www/html/fonpyme/gacela/index.php(13): CApplication->run()
+#12 {main}
+REQUEST_URI=/fonpyme/gacela/sociedad/update/images/barra.png
+HTTP_REFERER=http://localhost/fonpyme/gacela/sociedad/update/23
+---
+2016/11/28 13:16:09 [error] [exception.CHttpException.400] CHttpException: Su solicitud es inválida. in /var/www/html/fonpyme/framework/web/CController.php:336
+Stack trace:
+#0 /var/www/html/fonpyme/framework/web/CController.php(309): CController->invalidActionParams(Object(CInlineAction))
+#1 /var/www/html/fonpyme/framework/web/filters/CFilterChain.php(133): CController->runAction(Object(CInlineAction))
+#2 /var/www/html/fonpyme/framework/web/filters/CFilter.php(40): CFilterChain->run()
+#3 /var/www/html/fonpyme/framework/web/CController.php(1145): CFilter->filter(Object(CFilterChain))
+#4 /var/www/html/fonpyme/framework/web/filters/CInlineFilter.php(58): CController->filterAccessControl(Object(CFilterChain))
+#5 /var/www/html/fonpyme/framework/web/filters/CFilterChain.php(130): CInlineFilter->filter(Object(CFilterChain))
+#6 /var/www/html/fonpyme/framework/web/CController.php(291): CFilterChain->run()
+#7 /var/www/html/fonpyme/framework/web/CController.php(265): CController->runActionWithFilters(Object(CInlineAction), Array)
+#8 /var/www/html/fonpyme/framework/web/CWebApplication.php(282): CController->run('update')
+#9 /var/www/html/fonpyme/framework/web/CWebApplication.php(141): CWebApplication->runController('sociedad/update...')
+#10 /var/www/html/fonpyme/framework/base/CApplication.php(185): CWebApplication->processRequest()
+#11 /var/www/html/fonpyme/gacela/index.php(13): CApplication->run()
+#12 {main}
+REQUEST_URI=/fonpyme/gacela/sociedad/update/images/barra.png
+HTTP_REFERER=http://localhost/fonpyme/gacela/sociedad/update/23
+---
+2016/11/28 13:16:29 [error] [exception.CHttpException.400] CHttpException: Su solicitud es inválida. in /var/www/html/fonpyme/framework/web/CController.php:336
+Stack trace:
+#0 /var/www/html/fonpyme/framework/web/CController.php(309): CController->invalidActionParams(Object(CInlineAction))
+#1 /var/www/html/fonpyme/framework/web/filters/CFilterChain.php(133): CController->runAction(Object(CInlineAction))
+#2 /var/www/html/fonpyme/framework/web/filters/CFilter.php(40): CFilterChain->run()
+#3 /var/www/html/fonpyme/framework/web/CController.php(1145): CFilter->filter(Object(CFilterChain))
+#4 /var/www/html/fonpyme/framework/web/filters/CInlineFilter.php(58): CController->filterAccessControl(Object(CFilterChain))
+#5 /var/www/html/fonpyme/framework/web/filters/CFilterChain.php(130): CInlineFilter->filter(Object(CFilterChain))
+#6 /var/www/html/fonpyme/framework/web/CController.php(291): CFilterChain->run()
+#7 /var/www/html/fonpyme/framework/web/CController.php(265): CController->runActionWithFilters(Object(CInlineAction), Array)
+#8 /var/www/html/fonpyme/framework/web/CWebApplication.php(282): CController->run('update')
+#9 /var/www/html/fonpyme/framework/web/CWebApplication.php(141): CWebApplication->runController('sociedad/update...')
+#10 /var/www/html/fonpyme/framework/base/CApplication.php(185): CWebApplication->processRequest()
+#11 /var/www/html/fonpyme/gacela/index.php(13): CApplication->run()
+#12 {main}
+REQUEST_URI=/fonpyme/gacela/sociedad/update/images/barra.png
+HTTP_REFERER=http://localhost/fonpyme/gacela/sociedad/update/23
+---
+2016/11/28 13:16:29 [error] [exception.CHttpException.400] CHttpException: Su solicitud es inválida. in /var/www/html/fonpyme/framework/web/CController.php:336
+Stack trace:
+#0 /var/www/html/fonpyme/framework/web/CController.php(309): CController->invalidActionParams(Object(CInlineAction))
+#1 /var/www/html/fonpyme/framework/web/filters/CFilterChain.php(133): CController->runAction(Object(CInlineAction))
+#2 /var/www/html/fonpyme/framework/web/filters/CFilter.php(40): CFilterChain->run()
+#3 /var/www/html/fonpyme/framework/web/CController.php(1145): CFilter->filter(Object(CFilterChain))
+#4 /var/www/html/fonpyme/framework/web/filters/CInlineFilter.php(58): CController->filterAccessControl(Object(CFilterChain))
+#5 /var/www/html/fonpyme/framework/web/filters/CFilterChain.php(130): CInlineFilter->filter(Object(CFilterChain))
+#6 /var/www/html/fonpyme/framework/web/CController.php(291): CFilterChain->run()
+#7 /var/www/html/fonpyme/framework/web/CController.php(265): CController->runActionWithFilters(Object(CInlineAction), Array)
+#8 /var/www/html/fonpyme/framework/web/CWebApplication.php(282): CController->run('update')
+#9 /var/www/html/fonpyme/framework/web/CWebApplication.php(141): CWebApplication->runController('sociedad/update...')
+#10 /var/www/html/fonpyme/framework/base/CApplication.php(185): CWebApplication->processRequest()
+#11 /var/www/html/fonpyme/gacela/index.php(13): CApplication->run()
+#12 {main}
+REQUEST_URI=/fonpyme/gacela/sociedad/update/images/barra.png
+HTTP_REFERER=http://localhost/fonpyme/gacela/sociedad/update/23
+---
+2016/11/28 13:16:44 [error] [exception.CHttpException.400] CHttpException: Su solicitud es inválida. in /var/www/html/fonpyme/framework/web/CController.php:336
+Stack trace:
+#0 /var/www/html/fonpyme/framework/web/CController.php(309): CController->invalidActionParams(Object(CInlineAction))
+#1 /var/www/html/fonpyme/framework/web/filters/CFilterChain.php(133): CController->runAction(Object(CInlineAction))
+#2 /var/www/html/fonpyme/framework/web/filters/CFilter.php(40): CFilterChain->run()
+#3 /var/www/html/fonpyme/framework/web/CController.php(1145): CFilter->filter(Object(CFilterChain))
+#4 /var/www/html/fonpyme/framework/web/filters/CInlineFilter.php(58): CController->filterAccessControl(Object(CFilterChain))
+#5 /var/www/html/fonpyme/framework/web/filters/CFilterChain.php(130): CInlineFilter->filter(Object(CFilterChain))
+#6 /var/www/html/fonpyme/framework/web/CController.php(291): CFilterChain->run()
+#7 /var/www/html/fonpyme/framework/web/CController.php(265): CController->runActionWithFilters(Object(CInlineAction), Array)
+#8 /var/www/html/fonpyme/framework/web/CWebApplication.php(282): CController->run('update')
+#9 /var/www/html/fonpyme/framework/web/CWebApplication.php(141): CWebApplication->runController('sociedad/update...')
+#10 /var/www/html/fonpyme/framework/base/CApplication.php(185): CWebApplication->processRequest()
+#11 /var/www/html/fonpyme/gacela/index.php(13): CApplication->run()
+#12 {main}
+REQUEST_URI=/fonpyme/gacela/sociedad/update/images/barra.png
+HTTP_REFERER=http://localhost/fonpyme/gacela/sociedad/update/23
+---
+2016/11/28 13:16:44 [error] [exception.CHttpException.400] CHttpException: Su solicitud es inválida. in /var/www/html/fonpyme/framework/web/CController.php:336
+Stack trace:
+#0 /var/www/html/fonpyme/framework/web/CController.php(309): CController->invalidActionParams(Object(CInlineAction))
+#1 /var/www/html/fonpyme/framework/web/filters/CFilterChain.php(133): CController->runAction(Object(CInlineAction))
+#2 /var/www/html/fonpyme/framework/web/filters/CFilter.php(40): CFilterChain->run()
+#3 /var/www/html/fonpyme/framework/web/CController.php(1145): CFilter->filter(Object(CFilterChain))
+#4 /var/www/html/fonpyme/framework/web/filters/CInlineFilter.php(58): CController->filterAccessControl(Object(CFilterChain))
+#5 /var/www/html/fonpyme/framework/web/filters/CFilterChain.php(130): CInlineFilter->filter(Object(CFilterChain))
+#6 /var/www/html/fonpyme/framework/web/CController.php(291): CFilterChain->run()
+#7 /var/www/html/fonpyme/framework/web/CController.php(265): CController->runActionWithFilters(Object(CInlineAction), Array)
+#8 /var/www/html/fonpyme/framework/web/CWebApplication.php(282): CController->run('update')
+#9 /var/www/html/fonpyme/framework/web/CWebApplication.php(141): CWebApplication->runController('sociedad/update...')
+#10 /var/www/html/fonpyme/framework/base/CApplication.php(185): CWebApplication->processRequest()
+#11 /var/www/html/fonpyme/gacela/index.php(13): CApplication->run()
+#12 {main}
+REQUEST_URI=/fonpyme/gacela/sociedad/update/images/barra.png
+HTTP_REFERER=http://localhost/fonpyme/gacela/sociedad/update/23
+---
+2016/11/28 13:17:31 [error] [exception.CHttpException.400] CHttpException: Su solicitud es inválida. in /var/www/html/fonpyme/framework/web/CController.php:336
+Stack trace:
+#0 /var/www/html/fonpyme/framework/web/CController.php(309): CController->invalidActionParams(Object(CInlineAction))
+#1 /var/www/html/fonpyme/framework/web/filters/CFilterChain.php(133): CController->runAction(Object(CInlineAction))
+#2 /var/www/html/fonpyme/framework/web/filters/CFilter.php(40): CFilterChain->run()
+#3 /var/www/html/fonpyme/framework/web/CController.php(1145): CFilter->filter(Object(CFilterChain))
+#4 /var/www/html/fonpyme/framework/web/filters/CInlineFilter.php(58): CController->filterAccessControl(Object(CFilterChain))
+#5 /var/www/html/fonpyme/framework/web/filters/CFilterChain.php(130): CInlineFilter->filter(Object(CFilterChain))
+#6 /var/www/html/fonpyme/framework/web/CController.php(291): CFilterChain->run()
+#7 /var/www/html/fonpyme/framework/web/CController.php(265): CController->runActionWithFilters(Object(CInlineAction), Array)
+#8 /var/www/html/fonpyme/framework/web/CWebApplication.php(282): CController->run('update')
+#9 /var/www/html/fonpyme/framework/web/CWebApplication.php(141): CWebApplication->runController('sociedad/update...')
+#10 /var/www/html/fonpyme/framework/base/CApplication.php(185): CWebApplication->processRequest()
+#11 /var/www/html/fonpyme/gacela/index.php(13): CApplication->run()
+#12 {main}
+REQUEST_URI=/fonpyme/gacela/sociedad/update/images/barra.png
+HTTP_REFERER=http://localhost/fonpyme/gacela/sociedad/update/23
+---
+2016/11/28 13:17:31 [error] [exception.CHttpException.400] CHttpException: Su solicitud es inválida. in /var/www/html/fonpyme/framework/web/CController.php:336
+Stack trace:
+#0 /var/www/html/fonpyme/framework/web/CController.php(309): CController->invalidActionParams(Object(CInlineAction))
+#1 /var/www/html/fonpyme/framework/web/filters/CFilterChain.php(133): CController->runAction(Object(CInlineAction))
+#2 /var/www/html/fonpyme/framework/web/filters/CFilter.php(40): CFilterChain->run()
+#3 /var/www/html/fonpyme/framework/web/CController.php(1145): CFilter->filter(Object(CFilterChain))
+#4 /var/www/html/fonpyme/framework/web/filters/CInlineFilter.php(58): CController->filterAccessControl(Object(CFilterChain))
+#5 /var/www/html/fonpyme/framework/web/filters/CFilterChain.php(130): CInlineFilter->filter(Object(CFilterChain))
+#6 /var/www/html/fonpyme/framework/web/CController.php(291): CFilterChain->run()
+#7 /var/www/html/fonpyme/framework/web/CController.php(265): CController->runActionWithFilters(Object(CInlineAction), Array)
+#8 /var/www/html/fonpyme/framework/web/CWebApplication.php(282): CController->run('update')
+#9 /var/www/html/fonpyme/framework/web/CWebApplication.php(141): CWebApplication->runController('sociedad/update...')
+#10 /var/www/html/fonpyme/framework/base/CApplication.php(185): CWebApplication->processRequest()
+#11 /var/www/html/fonpyme/gacela/index.php(13): CApplication->run()
+#12 {main}
+REQUEST_URI=/fonpyme/gacela/sociedad/update/images/barra.png
+HTTP_REFERER=http://localhost/fonpyme/gacela/sociedad/update/23
+---
+2016/11/28 13:17:34 [error] [exception.CHttpException.400] CHttpException: Su solicitud es inválida. in /var/www/html/fonpyme/framework/web/CController.php:336
+Stack trace:
+#0 /var/www/html/fonpyme/framework/web/CController.php(309): CController->invalidActionParams(Object(CInlineAction))
+#1 /var/www/html/fonpyme/framework/web/filters/CFilterChain.php(133): CController->runAction(Object(CInlineAction))
+#2 /var/www/html/fonpyme/framework/web/filters/CFilter.php(40): CFilterChain->run()
+#3 /var/www/html/fonpyme/framework/web/CController.php(1145): CFilter->filter(Object(CFilterChain))
+#4 /var/www/html/fonpyme/framework/web/filters/CInlineFilter.php(58): CController->filterAccessControl(Object(CFilterChain))
+#5 /var/www/html/fonpyme/framework/web/filters/CFilterChain.php(130): CInlineFilter->filter(Object(CFilterChain))
+#6 /var/www/html/fonpyme/framework/web/CController.php(291): CFilterChain->run()
+#7 /var/www/html/fonpyme/framework/web/CController.php(265): CController->runActionWithFilters(Object(CInlineAction), Array)
+#8 /var/www/html/fonpyme/framework/web/CWebApplication.php(282): CController->run('update')
+#9 /var/www/html/fonpyme/framework/web/CWebApplication.php(141): CWebApplication->runController('sociedad/update...')
+#10 /var/www/html/fonpyme/framework/base/CApplication.php(185): CWebApplication->processRequest()
+#11 /var/www/html/fonpyme/gacela/index.php(13): CApplication->run()
+#12 {main}
+REQUEST_URI=/fonpyme/gacela/sociedad/update/images/barra.png
+HTTP_REFERER=http://localhost/fonpyme/gacela/sociedad/update/23
+---
+2016/11/28 13:17:52 [error] [exception.CHttpException.400] CHttpException: Su solicitud es inválida. in /var/www/html/fonpyme/framework/web/CController.php:336
+Stack trace:
+#0 /var/www/html/fonpyme/framework/web/CController.php(309): CController->invalidActionParams(Object(CInlineAction))
+#1 /var/www/html/fonpyme/framework/web/filters/CFilterChain.php(133): CController->runAction(Object(CInlineAction))
+#2 /var/www/html/fonpyme/framework/web/filters/CFilter.php(40): CFilterChain->run()
+#3 /var/www/html/fonpyme/framework/web/CController.php(1145): CFilter->filter(Object(CFilterChain))
+#4 /var/www/html/fonpyme/framework/web/filters/CInlineFilter.php(58): CController->filterAccessControl(Object(CFilterChain))
+#5 /var/www/html/fonpyme/framework/web/filters/CFilterChain.php(130): CInlineFilter->filter(Object(CFilterChain))
+#6 /var/www/html/fonpyme/framework/web/CController.php(291): CFilterChain->run()
+#7 /var/www/html/fonpyme/framework/web/CController.php(265): CController->runActionWithFilters(Object(CInlineAction), Array)
+#8 /var/www/html/fonpyme/framework/web/CWebApplication.php(282): CController->run('update')
+#9 /var/www/html/fonpyme/framework/web/CWebApplication.php(141): CWebApplication->runController('sociedad/update...')
+#10 /var/www/html/fonpyme/framework/base/CApplication.php(185): CWebApplication->processRequest()
+#11 /var/www/html/fonpyme/gacela/index.php(13): CApplication->run()
+#12 {main}
+REQUEST_URI=/fonpyme/gacela/sociedad/update/images/barra.png
+HTTP_REFERER=http://localhost/fonpyme/gacela/sociedad/update/23
+---
+2016/11/28 13:17:52 [error] [exception.CHttpException.400] CHttpException: Su solicitud es inválida. in /var/www/html/fonpyme/framework/web/CController.php:336
+Stack trace:
+#0 /var/www/html/fonpyme/framework/web/CController.php(309): CController->invalidActionParams(Object(CInlineAction))
+#1 /var/www/html/fonpyme/framework/web/filters/CFilterChain.php(133): CController->runAction(Object(CInlineAction))
+#2 /var/www/html/fonpyme/framework/web/filters/CFilter.php(40): CFilterChain->run()
+#3 /var/www/html/fonpyme/framework/web/CController.php(1145): CFilter->filter(Object(CFilterChain))
+#4 /var/www/html/fonpyme/framework/web/filters/CInlineFilter.php(58): CController->filterAccessControl(Object(CFilterChain))
+#5 /var/www/html/fonpyme/framework/web/filters/CFilterChain.php(130): CInlineFilter->filter(Object(CFilterChain))
+#6 /var/www/html/fonpyme/framework/web/CController.php(291): CFilterChain->run()
+#7 /var/www/html/fonpyme/framework/web/CController.php(265): CController->runActionWithFilters(Object(CInlineAction), Array)
+#8 /var/www/html/fonpyme/framework/web/CWebApplication.php(282): CController->run('update')
+#9 /var/www/html/fonpyme/framework/web/CWebApplication.php(141): CWebApplication->runController('sociedad/update...')
+#10 /var/www/html/fonpyme/framework/base/CApplication.php(185): CWebApplication->processRequest()
+#11 /var/www/html/fonpyme/gacela/index.php(13): CApplication->run()
+#12 {main}
+REQUEST_URI=/fonpyme/gacela/sociedad/update/images/barra.png
+HTTP_REFERER=http://localhost/fonpyme/gacela/sociedad/update/23
+---
+2016/11/28 13:18:08 [error] [exception.CHttpException.400] CHttpException: Su solicitud es inválida. in /var/www/html/fonpyme/framework/web/CController.php:336
+Stack trace:
+#0 /var/www/html/fonpyme/framework/web/CController.php(309): CController->invalidActionParams(Object(CInlineAction))
+#1 /var/www/html/fonpyme/framework/web/filters/CFilterChain.php(133): CController->runAction(Object(CInlineAction))
+#2 /var/www/html/fonpyme/framework/web/filters/CFilter.php(40): CFilterChain->run()
+#3 /var/www/html/fonpyme/framework/web/CController.php(1145): CFilter->filter(Object(CFilterChain))
+#4 /var/www/html/fonpyme/framework/web/filters/CInlineFilter.php(58): CController->filterAccessControl(Object(CFilterChain))
+#5 /var/www/html/fonpyme/framework/web/filters/CFilterChain.php(130): CInlineFilter->filter(Object(CFilterChain))
+#6 /var/www/html/fonpyme/framework/web/CController.php(291): CFilterChain->run()
+#7 /var/www/html/fonpyme/framework/web/CController.php(265): CController->runActionWithFilters(Object(CInlineAction), Array)
+#8 /var/www/html/fonpyme/framework/web/CWebApplication.php(282): CController->run('update')
+#9 /var/www/html/fonpyme/framework/web/CWebApplication.php(141): CWebApplication->runController('sociedad/update...')
+#10 /var/www/html/fonpyme/framework/base/CApplication.php(185): CWebApplication->processRequest()
+#11 /var/www/html/fonpyme/gacela/index.php(13): CApplication->run()
+#12 {main}
+REQUEST_URI=/fonpyme/gacela/sociedad/update/images/barra.png
+HTTP_REFERER=http://localhost/fonpyme/gacela/sociedad/update/23
+---
+2016/11/28 13:18:08 [error] [exception.CHttpException.400] CHttpException: Su solicitud es inválida. in /var/www/html/fonpyme/framework/web/CController.php:336
+Stack trace:
+#0 /var/www/html/fonpyme/framework/web/CController.php(309): CController->invalidActionParams(Object(CInlineAction))
+#1 /var/www/html/fonpyme/framework/web/filters/CFilterChain.php(133): CController->runAction(Object(CInlineAction))
+#2 /var/www/html/fonpyme/framework/web/filters/CFilter.php(40): CFilterChain->run()
+#3 /var/www/html/fonpyme/framework/web/CController.php(1145): CFilter->filter(Object(CFilterChain))
+#4 /var/www/html/fonpyme/framework/web/filters/CInlineFilter.php(58): CController->filterAccessControl(Object(CFilterChain))
+#5 /var/www/html/fonpyme/framework/web/filters/CFilterChain.php(130): CInlineFilter->filter(Object(CFilterChain))
+#6 /var/www/html/fonpyme/framework/web/CController.php(291): CFilterChain->run()
+#7 /var/www/html/fonpyme/framework/web/CController.php(265): CController->runActionWithFilters(Object(CInlineAction), Array)
+#8 /var/www/html/fonpyme/framework/web/CWebApplication.php(282): CController->run('update')
+#9 /var/www/html/fonpyme/framework/web/CWebApplication.php(141): CWebApplication->runController('sociedad/update...')
+#10 /var/www/html/fonpyme/framework/base/CApplication.php(185): CWebApplication->processRequest()
+#11 /var/www/html/fonpyme/gacela/index.php(13): CApplication->run()
+#12 {main}
+REQUEST_URI=/fonpyme/gacela/sociedad/update/images/barra.png
+HTTP_REFERER=http://localhost/fonpyme/gacela/sociedad/update/23
+---
+2016/11/28 13:18:16 [error] [exception.CHttpException.400] CHttpException: Su solicitud es inválida. in /var/www/html/fonpyme/framework/web/CController.php:336
+Stack trace:
+#0 /var/www/html/fonpyme/framework/web/CController.php(309): CController->invalidActionParams(Object(CInlineAction))
+#1 /var/www/html/fonpyme/framework/web/filters/CFilterChain.php(133): CController->runAction(Object(CInlineAction))
+#2 /var/www/html/fonpyme/framework/web/filters/CFilter.php(40): CFilterChain->run()
+#3 /var/www/html/fonpyme/framework/web/CController.php(1145): CFilter->filter(Object(CFilterChain))
+#4 /var/www/html/fonpyme/framework/web/filters/CInlineFilter.php(58): CController->filterAccessControl(Object(CFilterChain))
+#5 /var/www/html/fonpyme/framework/web/filters/CFilterChain.php(130): CInlineFilter->filter(Object(CFilterChain))
+#6 /var/www/html/fonpyme/framework/web/CController.php(291): CFilterChain->run()
+#7 /var/www/html/fonpyme/framework/web/CController.php(265): CController->runActionWithFilters(Object(CInlineAction), Array)
+#8 /var/www/html/fonpyme/framework/web/CWebApplication.php(282): CController->run('update')
+#9 /var/www/html/fonpyme/framework/web/CWebApplication.php(141): CWebApplication->runController('sociedad/update...')
+#10 /var/www/html/fonpyme/framework/base/CApplication.php(185): CWebApplication->processRequest()
+#11 /var/www/html/fonpyme/gacela/index.php(13): CApplication->run()
+#12 {main}
+REQUEST_URI=/fonpyme/gacela/sociedad/update/images/barra.png
+HTTP_REFERER=http://localhost/fonpyme/gacela/sociedad/update/23
+---
+2016/11/28 13:18:17 [error] [exception.CHttpException.400] CHttpException: Su solicitud es inválida. in /var/www/html/fonpyme/framework/web/CController.php:336
+Stack trace:
+#0 /var/www/html/fonpyme/framework/web/CController.php(309): CController->invalidActionParams(Object(CInlineAction))
+#1 /var/www/html/fonpyme/framework/web/filters/CFilterChain.php(133): CController->runAction(Object(CInlineAction))
+#2 /var/www/html/fonpyme/framework/web/filters/CFilter.php(40): CFilterChain->run()
+#3 /var/www/html/fonpyme/framework/web/CController.php(1145): CFilter->filter(Object(CFilterChain))
+#4 /var/www/html/fonpyme/framework/web/filters/CInlineFilter.php(58): CController->filterAccessControl(Object(CFilterChain))
+#5 /var/www/html/fonpyme/framework/web/filters/CFilterChain.php(130): CInlineFilter->filter(Object(CFilterChain))
+#6 /var/www/html/fonpyme/framework/web/CController.php(291): CFilterChain->run()
+#7 /var/www/html/fonpyme/framework/web/CController.php(265): CController->runActionWithFilters(Object(CInlineAction), Array)
+#8 /var/www/html/fonpyme/framework/web/CWebApplication.php(282): CController->run('update')
+#9 /var/www/html/fonpyme/framework/web/CWebApplication.php(141): CWebApplication->runController('sociedad/update...')
+#10 /var/www/html/fonpyme/framework/base/CApplication.php(185): CWebApplication->processRequest()
+#11 /var/www/html/fonpyme/gacela/index.php(13): CApplication->run()
+#12 {main}
+REQUEST_URI=/fonpyme/gacela/sociedad/update/images/barra.png
+HTTP_REFERER=http://localhost/fonpyme/gacela/sociedad/update/23
+---
+2016/11/28 13:18:18 [error] [exception.CHttpException.400] CHttpException: Su solicitud es inválida. in /var/www/html/fonpyme/framework/web/CController.php:336
+Stack trace:
+#0 /var/www/html/fonpyme/framework/web/CController.php(309): CController->invalidActionParams(Object(CInlineAction))
+#1 /var/www/html/fonpyme/framework/web/filters/CFilterChain.php(133): CController->runAction(Object(CInlineAction))
+#2 /var/www/html/fonpyme/framework/web/filters/CFilter.php(40): CFilterChain->run()
+#3 /var/www/html/fonpyme/framework/web/CController.php(1145): CFilter->filter(Object(CFilterChain))
+#4 /var/www/html/fonpyme/framework/web/filters/CInlineFilter.php(58): CController->filterAccessControl(Object(CFilterChain))
+#5 /var/www/html/fonpyme/framework/web/filters/CFilterChain.php(130): CInlineFilter->filter(Object(CFilterChain))
+#6 /var/www/html/fonpyme/framework/web/CController.php(291): CFilterChain->run()
+#7 /var/www/html/fonpyme/framework/web/CController.php(265): CController->runActionWithFilters(Object(CInlineAction), Array)
+#8 /var/www/html/fonpyme/framework/web/CWebApplication.php(282): CController->run('update')
+#9 /var/www/html/fonpyme/framework/web/CWebApplication.php(141): CWebApplication->runController('sociedad/update...')
+#10 /var/www/html/fonpyme/framework/base/CApplication.php(185): CWebApplication->processRequest()
+#11 /var/www/html/fonpyme/gacela/index.php(13): CApplication->run()
+#12 {main}
+REQUEST_URI=/fonpyme/gacela/sociedad/update/images/barra.png
+HTTP_REFERER=http://localhost/fonpyme/gacela/sociedad/update/23
+---
+2016/11/28 13:18:18 [error] [exception.CHttpException.400] CHttpException: Su solicitud es inválida. in /var/www/html/fonpyme/framework/web/CController.php:336
+Stack trace:
+#0 /var/www/html/fonpyme/framework/web/CController.php(309): CController->invalidActionParams(Object(CInlineAction))
+#1 /var/www/html/fonpyme/framework/web/filters/CFilterChain.php(133): CController->runAction(Object(CInlineAction))
+#2 /var/www/html/fonpyme/framework/web/filters/CFilter.php(40): CFilterChain->run()
+#3 /var/www/html/fonpyme/framework/web/CController.php(1145): CFilter->filter(Object(CFilterChain))
+#4 /var/www/html/fonpyme/framework/web/filters/CInlineFilter.php(58): CController->filterAccessControl(Object(CFilterChain))
+#5 /var/www/html/fonpyme/framework/web/filters/CFilterChain.php(130): CInlineFilter->filter(Object(CFilterChain))
+#6 /var/www/html/fonpyme/framework/web/CController.php(291): CFilterChain->run()
+#7 /var/www/html/fonpyme/framework/web/CController.php(265): CController->runActionWithFilters(Object(CInlineAction), Array)
+#8 /var/www/html/fonpyme/framework/web/CWebApplication.php(282): CController->run('update')
+#9 /var/www/html/fonpyme/framework/web/CWebApplication.php(141): CWebApplication->runController('sociedad/update...')
+#10 /var/www/html/fonpyme/framework/base/CApplication.php(185): CWebApplication->processRequest()
+#11 /var/www/html/fonpyme/gacela/index.php(13): CApplication->run()
+#12 {main}
+REQUEST_URI=/fonpyme/gacela/sociedad/update/images/barra.png
+HTTP_REFERER=http://localhost/fonpyme/gacela/sociedad/update/23
+---
+2016/11/28 13:18:18 [error] [exception.CHttpException.400] CHttpException: Su solicitud es inválida. in /var/www/html/fonpyme/framework/web/CController.php:336
+Stack trace:
+#0 /var/www/html/fonpyme/framework/web/CController.php(309): CController->invalidActionParams(Object(CInlineAction))
+#1 /var/www/html/fonpyme/framework/web/filters/CFilterChain.php(133): CController->runAction(Object(CInlineAction))
+#2 /var/www/html/fonpyme/framework/web/filters/CFilter.php(40): CFilterChain->run()
+#3 /var/www/html/fonpyme/framework/web/CController.php(1145): CFilter->filter(Object(CFilterChain))
+#4 /var/www/html/fonpyme/framework/web/filters/CInlineFilter.php(58): CController->filterAccessControl(Object(CFilterChain))
+#5 /var/www/html/fonpyme/framework/web/filters/CFilterChain.php(130): CInlineFilter->filter(Object(CFilterChain))
+#6 /var/www/html/fonpyme/framework/web/CController.php(291): CFilterChain->run()
+#7 /var/www/html/fonpyme/framework/web/CController.php(265): CController->runActionWithFilters(Object(CInlineAction), Array)
+#8 /var/www/html/fonpyme/framework/web/CWebApplication.php(282): CController->run('update')
+#9 /var/www/html/fonpyme/framework/web/CWebApplication.php(141): CWebApplication->runController('sociedad/update...')
+#10 /var/www/html/fonpyme/framework/base/CApplication.php(185): CWebApplication->processRequest()
+#11 /var/www/html/fonpyme/gacela/index.php(13): CApplication->run()
+#12 {main}
+REQUEST_URI=/fonpyme/gacela/sociedad/update/images/barra.png
+HTTP_REFERER=http://localhost/fonpyme/gacela/sociedad/update/23
+---
+2016/11/28 13:18:18 [error] [exception.CHttpException.400] CHttpException: Su solicitud es inválida. in /var/www/html/fonpyme/framework/web/CController.php:336
+Stack trace:
+#0 /var/www/html/fonpyme/framework/web/CController.php(309): CController->invalidActionParams(Object(CInlineAction))
+#1 /var/www/html/fonpyme/framework/web/filters/CFilterChain.php(133): CController->runAction(Object(CInlineAction))
+#2 /var/www/html/fonpyme/framework/web/filters/CFilter.php(40): CFilterChain->run()
+#3 /var/www/html/fonpyme/framework/web/CController.php(1145): CFilter->filter(Object(CFilterChain))
+#4 /var/www/html/fonpyme/framework/web/filters/CInlineFilter.php(58): CController->filterAccessControl(Object(CFilterChain))
+#5 /var/www/html/fonpyme/framework/web/filters/CFilterChain.php(130): CInlineFilter->filter(Object(CFilterChain))
+#6 /var/www/html/fonpyme/framework/web/CController.php(291): CFilterChain->run()
+#7 /var/www/html/fonpyme/framework/web/CController.php(265): CController->runActionWithFilters(Object(CInlineAction), Array)
+#8 /var/www/html/fonpyme/framework/web/CWebApplication.php(282): CController->run('update')
+#9 /var/www/html/fonpyme/framework/web/CWebApplication.php(141): CWebApplication->runController('sociedad/update...')
+#10 /var/www/html/fonpyme/framework/base/CApplication.php(185): CWebApplication->processRequest()
+#11 /var/www/html/fonpyme/gacela/index.php(13): CApplication->run()
+#12 {main}
+REQUEST_URI=/fonpyme/gacela/sociedad/update/images/barra.png
+HTTP_REFERER=http://localhost/fonpyme/gacela/sociedad/update/23
+---
+2016/11/28 13:18:18 [error] [exception.CHttpException.400] CHttpException: Su solicitud es inválida. in /var/www/html/fonpyme/framework/web/CController.php:336
+Stack trace:
+#0 /var/www/html/fonpyme/framework/web/CController.php(309): CController->invalidActionParams(Object(CInlineAction))
+#1 /var/www/html/fonpyme/framework/web/filters/CFilterChain.php(133): CController->runAction(Object(CInlineAction))
+#2 /var/www/html/fonpyme/framework/web/filters/CFilter.php(40): CFilterChain->run()
+#3 /var/www/html/fonpyme/framework/web/CController.php(1145): CFilter->filter(Object(CFilterChain))
+#4 /var/www/html/fonpyme/framework/web/filters/CInlineFilter.php(58): CController->filterAccessControl(Object(CFilterChain))
+#5 /var/www/html/fonpyme/framework/web/filters/CFilterChain.php(130): CInlineFilter->filter(Object(CFilterChain))
+#6 /var/www/html/fonpyme/framework/web/CController.php(291): CFilterChain->run()
+#7 /var/www/html/fonpyme/framework/web/CController.php(265): CController->runActionWithFilters(Object(CInlineAction), Array)
+#8 /var/www/html/fonpyme/framework/web/CWebApplication.php(282): CController->run('update')
+#9 /var/www/html/fonpyme/framework/web/CWebApplication.php(141): CWebApplication->runController('sociedad/update...')
+#10 /var/www/html/fonpyme/framework/base/CApplication.php(185): CWebApplication->processRequest()
+#11 /var/www/html/fonpyme/gacela/index.php(13): CApplication->run()
+#12 {main}
+REQUEST_URI=/fonpyme/gacela/sociedad/update/images/barra.png
+HTTP_REFERER=http://localhost/fonpyme/gacela/sociedad/update/23
+---
+2016/11/28 13:18:18 [error] [exception.CHttpException.400] CHttpException: Su solicitud es inválida. in /var/www/html/fonpyme/framework/web/CController.php:336
+Stack trace:
+#0 /var/www/html/fonpyme/framework/web/CController.php(309): CController->invalidActionParams(Object(CInlineAction))
+#1 /var/www/html/fonpyme/framework/web/filters/CFilterChain.php(133): CController->runAction(Object(CInlineAction))
+#2 /var/www/html/fonpyme/framework/web/filters/CFilter.php(40): CFilterChain->run()
+#3 /var/www/html/fonpyme/framework/web/CController.php(1145): CFilter->filter(Object(CFilterChain))
+#4 /var/www/html/fonpyme/framework/web/filters/CInlineFilter.php(58): CController->filterAccessControl(Object(CFilterChain))
+#5 /var/www/html/fonpyme/framework/web/filters/CFilterChain.php(130): CInlineFilter->filter(Object(CFilterChain))
+#6 /var/www/html/fonpyme/framework/web/CController.php(291): CFilterChain->run()
+#7 /var/www/html/fonpyme/framework/web/CController.php(265): CController->runActionWithFilters(Object(CInlineAction), Array)
+#8 /var/www/html/fonpyme/framework/web/CWebApplication.php(282): CController->run('update')
+#9 /var/www/html/fonpyme/framework/web/CWebApplication.php(141): CWebApplication->runController('sociedad/update...')
+#10 /var/www/html/fonpyme/framework/base/CApplication.php(185): CWebApplication->processRequest()
+#11 /var/www/html/fonpyme/gacela/index.php(13): CApplication->run()
+#12 {main}
+REQUEST_URI=/fonpyme/gacela/sociedad/update/images/barra.png
+HTTP_REFERER=http://localhost/fonpyme/gacela/sociedad/update/23
+---
+2016/11/28 13:18:19 [error] [exception.CHttpException.400] CHttpException: Su solicitud es inválida. in /var/www/html/fonpyme/framework/web/CController.php:336
+Stack trace:
+#0 /var/www/html/fonpyme/framework/web/CController.php(309): CController->invalidActionParams(Object(CInlineAction))
+#1 /var/www/html/fonpyme/framework/web/filters/CFilterChain.php(133): CController->runAction(Object(CInlineAction))
+#2 /var/www/html/fonpyme/framework/web/filters/CFilter.php(40): CFilterChain->run()
+#3 /var/www/html/fonpyme/framework/web/CController.php(1145): CFilter->filter(Object(CFilterChain))
+#4 /var/www/html/fonpyme/framework/web/filters/CInlineFilter.php(58): CController->filterAccessControl(Object(CFilterChain))
+#5 /var/www/html/fonpyme/framework/web/filters/CFilterChain.php(130): CInlineFilter->filter(Object(CFilterChain))
+#6 /var/www/html/fonpyme/framework/web/CController.php(291): CFilterChain->run()
+#7 /var/www/html/fonpyme/framework/web/CController.php(265): CController->runActionWithFilters(Object(CInlineAction), Array)
+#8 /var/www/html/fonpyme/framework/web/CWebApplication.php(282): CController->run('update')
+#9 /var/www/html/fonpyme/framework/web/CWebApplication.php(141): CWebApplication->runController('sociedad/update...')
+#10 /var/www/html/fonpyme/framework/base/CApplication.php(185): CWebApplication->processRequest()
+#11 /var/www/html/fonpyme/gacela/index.php(13): CApplication->run()
+#12 {main}
+REQUEST_URI=/fonpyme/gacela/sociedad/update/images/barra.png
+HTTP_REFERER=http://localhost/fonpyme/gacela/sociedad/update/23
+---
+2016/11/28 13:18:19 [error] [exception.CHttpException.400] CHttpException: Su solicitud es inválida. in /var/www/html/fonpyme/framework/web/CController.php:336
+Stack trace:
+#0 /var/www/html/fonpyme/framework/web/CController.php(309): CController->invalidActionParams(Object(CInlineAction))
+#1 /var/www/html/fonpyme/framework/web/filters/CFilterChain.php(133): CController->runAction(Object(CInlineAction))
+#2 /var/www/html/fonpyme/framework/web/filters/CFilter.php(40): CFilterChain->run()
+#3 /var/www/html/fonpyme/framework/web/CController.php(1145): CFilter->filter(Object(CFilterChain))
+#4 /var/www/html/fonpyme/framework/web/filters/CInlineFilter.php(58): CController->filterAccessControl(Object(CFilterChain))
+#5 /var/www/html/fonpyme/framework/web/filters/CFilterChain.php(130): CInlineFilter->filter(Object(CFilterChain))
+#6 /var/www/html/fonpyme/framework/web/CController.php(291): CFilterChain->run()
+#7 /var/www/html/fonpyme/framework/web/CController.php(265): CController->runActionWithFilters(Object(CInlineAction), Array)
+#8 /var/www/html/fonpyme/framework/web/CWebApplication.php(282): CController->run('update')
+#9 /var/www/html/fonpyme/framework/web/CWebApplication.php(141): CWebApplication->runController('sociedad/update...')
+#10 /var/www/html/fonpyme/framework/base/CApplication.php(185): CWebApplication->processRequest()
+#11 /var/www/html/fonpyme/gacela/index.php(13): CApplication->run()
+#12 {main}
+REQUEST_URI=/fonpyme/gacela/sociedad/update/images/barra.png
+HTTP_REFERER=http://localhost/fonpyme/gacela/sociedad/update/23
+---
+2016/11/28 13:20:32 [error] [exception.CException] CException: La propiedad "SociedadAccionista"."accionistas_porcentajeaccionistas_nro_junta" no se encuentra definida. in /var/www/html/fonpyme/framework/base/CComponent.php:130
+Stack trace:
+#0 /var/www/html/fonpyme/framework/db/ar/CActiveRecord.php(145): CComponent->__get('accionistas_por...')
+#1 /var/www/html/fonpyme/framework/validators/CRequiredValidator.php(58): CActiveRecord->__get('accionistas_por...')
+#2 /var/www/html/fonpyme/framework/validators/CValidator.php(201): CRequiredValidator->validateAttribute(Object(SociedadAccionista), 'accionistas_por...')
+#3 /var/www/html/fonpyme/framework/base/CModel.php(159): CValidator->validate(Object(SociedadAccionista), Array)
+#4 /var/www/html/fonpyme/framework/db/ar/CActiveRecord.php(808): CModel->validate(NULL)
+#5 /var/www/html/fonpyme/gacela/protected/controllers/SociedadAccionistaController.php(62): CActiveRecord->save()
+#6 /var/www/html/fonpyme/framework/web/actions/CInlineAction.php(49): SociedadAccionistaController->actionCreate()
+#7 /var/www/html/fonpyme/framework/web/CController.php(308): CInlineAction->runWithParams(Array)
+#8 /var/www/html/fonpyme/framework/web/filters/CFilterChain.php(133): CController->runAction(Object(CInlineAction))
+#9 /var/www/html/fonpyme/framework/web/filters/CFilter.php(40): CFilterChain->run()
+#10 /var/www/html/fonpyme/framework/web/CController.php(1145): CFilter->filter(Object(CFilterChain))
+#11 /var/www/html/fonpyme/framework/web/filters/CInlineFilter.php(58): CController->filterAccessControl(Object(CFilterChain))
+#12 /var/www/html/fonpyme/framework/web/filters/CFilterChain.php(130): CInlineFilter->filter(Object(CFilterChain))
+#13 /var/www/html/fonpyme/framework/web/CController.php(291): CFilterChain->run()
+#14 /var/www/html/fonpyme/framework/web/CController.php(265): CController->runActionWithFilters(Object(CInlineAction), Array)
+#15 /var/www/html/fonpyme/framework/web/CWebApplication.php(282): CController->run('create')
+#16 /var/www/html/fonpyme/framework/web/CWebApplication.php(141): CWebApplication->runController('sociedadAccioni...')
+#17 /var/www/html/fonpyme/framework/base/CApplication.php(185): CWebApplication->processRequest()
+#18 /var/www/html/fonpyme/gacela/index.php(13): CApplication->run()
+#19 {main}
+REQUEST_URI=/fonpyme/gacela/sociedadAccionista/create
+HTTP_REFERER=http://localhost/fonpyme/gacela/sociedad/update/23
+---
+2016/11/28 13:24:34 [error] [exception.CHttpException.404] CHttpException: El sistema no ha podido encontrar la acción "images" solicitada. in /var/www/html/fonpyme/framework/web/CController.php:483
+Stack trace:
+#0 /var/www/html/fonpyme/framework/web/CController.php(270): CController->missingAction('images')
+#1 /var/www/html/fonpyme/framework/web/CWebApplication.php(282): CController->run('images')
+#2 /var/www/html/fonpyme/framework/web/CWebApplication.php(141): CWebApplication->runController('sociedad/images...')
+#3 /var/www/html/fonpyme/framework/base/CApplication.php(185): CWebApplication->processRequest()
+#4 /var/www/html/fonpyme/gacela/index.php(13): CApplication->run()
+#5 {main}
+REQUEST_URI=/fonpyme/gacela/sociedad/images/barra.png
+HTTP_REFERER=http://192.168.43.26/fonpyme/gacela/sociedad/index
+---
+2016/11/28 13:24:35 [error] [exception.CHttpException.400] CHttpException: Su solicitud es inválida. in /var/www/html/fonpyme/framework/web/CController.php:336
+Stack trace:
+#0 /var/www/html/fonpyme/framework/web/CController.php(309): CController->invalidActionParams(Object(CInlineAction))
+#1 /var/www/html/fonpyme/framework/web/filters/CFilterChain.php(133): CController->runAction(Object(CInlineAction))
+#2 /var/www/html/fonpyme/framework/web/filters/CFilter.php(40): CFilterChain->run()
+#3 /var/www/html/fonpyme/framework/web/CController.php(1145): CFilter->filter(Object(CFilterChain))
+#4 /var/www/html/fonpyme/framework/web/filters/CInlineFilter.php(58): CController->filterAccessControl(Object(CFilterChain))
+#5 /var/www/html/fonpyme/framework/web/filters/CFilterChain.php(130): CInlineFilter->filter(Object(CFilterChain))
+#6 /var/www/html/fonpyme/framework/web/CController.php(291): CFilterChain->run()
+#7 /var/www/html/fonpyme/framework/web/CController.php(265): CController->runActionWithFilters(Object(CInlineAction), Array)
+#8 /var/www/html/fonpyme/framework/web/CWebApplication.php(282): CController->run('update')
+#9 /var/www/html/fonpyme/framework/web/CWebApplication.php(141): CWebApplication->runController('sociedad/update...')
+#10 /var/www/html/fonpyme/framework/base/CApplication.php(185): CWebApplication->processRequest()
+#11 /var/www/html/fonpyme/gacela/index.php(13): CApplication->run()
+#12 {main}
+REQUEST_URI=/fonpyme/gacela/sociedad/update/images/barra.png
+HTTP_REFERER=http://192.168.43.26/fonpyme/gacela/sociedad/update/23
+---
+2016/11/28 13:25:58 [error] [exception.CHttpException.400] CHttpException: Su solicitud es inválida. in /var/www/html/fonpyme/framework/web/CController.php:336
+Stack trace:
+#0 /var/www/html/fonpyme/framework/web/CController.php(309): CController->invalidActionParams(Object(CInlineAction))
+#1 /var/www/html/fonpyme/framework/web/filters/CFilterChain.php(133): CController->runAction(Object(CInlineAction))
+#2 /var/www/html/fonpyme/framework/web/filters/CFilter.php(40): CFilterChain->run()
+#3 /var/www/html/fonpyme/framework/web/CController.php(1145): CFilter->filter(Object(CFilterChain))
+#4 /var/www/html/fonpyme/framework/web/filters/CInlineFilter.php(58): CController->filterAccessControl(Object(CFilterChain))
+#5 /var/www/html/fonpyme/framework/web/filters/CFilterChain.php(130): CInlineFilter->filter(Object(CFilterChain))
+#6 /var/www/html/fonpyme/framework/web/CController.php(291): CFilterChain->run()
+#7 /var/www/html/fonpyme/framework/web/CController.php(265): CController->runActionWithFilters(Object(CInlineAction), Array)
+#8 /var/www/html/fonpyme/framework/web/CWebApplication.php(282): CController->run('update')
+#9 /var/www/html/fonpyme/framework/web/CWebApplication.php(141): CWebApplication->runController('sociedad/update...')
+#10 /var/www/html/fonpyme/framework/base/CApplication.php(185): CWebApplication->processRequest()
+#11 /var/www/html/fonpyme/gacela/index.php(13): CApplication->run()
+#12 {main}
+REQUEST_URI=/fonpyme/gacela/sociedad/update/images/barra.png
+HTTP_REFERER=http://192.168.43.26/fonpyme/gacela/sociedad/update/23
+---
+2016/11/28 13:26:09 [error] [exception.CHttpException.400] CHttpException: Su solicitud es inválida. in /var/www/html/fonpyme/framework/web/CController.php:336
+Stack trace:
+#0 /var/www/html/fonpyme/framework/web/CController.php(309): CController->invalidActionParams(Object(CInlineAction))
+#1 /var/www/html/fonpyme/framework/web/filters/CFilterChain.php(133): CController->runAction(Object(CInlineAction))
+#2 /var/www/html/fonpyme/framework/web/filters/CFilter.php(40): CFilterChain->run()
+#3 /var/www/html/fonpyme/framework/web/CController.php(1145): CFilter->filter(Object(CFilterChain))
+#4 /var/www/html/fonpyme/framework/web/filters/CInlineFilter.php(58): CController->filterAccessControl(Object(CFilterChain))
+#5 /var/www/html/fonpyme/framework/web/filters/CFilterChain.php(130): CInlineFilter->filter(Object(CFilterChain))
+#6 /var/www/html/fonpyme/framework/web/CController.php(291): CFilterChain->run()
+#7 /var/www/html/fonpyme/framework/web/CController.php(265): CController->runActionWithFilters(Object(CInlineAction), Array)
+#8 /var/www/html/fonpyme/framework/web/CWebApplication.php(282): CController->run('update')
+#9 /var/www/html/fonpyme/framework/web/CWebApplication.php(141): CWebApplication->runController('sociedad/update...')
+#10 /var/www/html/fonpyme/framework/base/CApplication.php(185): CWebApplication->processRequest()
+#11 /var/www/html/fonpyme/gacela/index.php(13): CApplication->run()
+#12 {main}
+REQUEST_URI=/fonpyme/gacela/sociedad/update/images/barra.png
+HTTP_REFERER=http://192.168.43.26/fonpyme/gacela/sociedad/update/23
+---
+2016/11/28 13:26:29 [error] [exception.CHttpException.400] CHttpException: Su solicitud es inválida. in /var/www/html/fonpyme/framework/web/CController.php:336
+Stack trace:
+#0 /var/www/html/fonpyme/framework/web/CController.php(309): CController->invalidActionParams(Object(CInlineAction))
+#1 /var/www/html/fonpyme/framework/web/filters/CFilterChain.php(133): CController->runAction(Object(CInlineAction))
+#2 /var/www/html/fonpyme/framework/web/filters/CFilter.php(40): CFilterChain->run()
+#3 /var/www/html/fonpyme/framework/web/CController.php(1145): CFilter->filter(Object(CFilterChain))
+#4 /var/www/html/fonpyme/framework/web/filters/CInlineFilter.php(58): CController->filterAccessControl(Object(CFilterChain))
+#5 /var/www/html/fonpyme/framework/web/filters/CFilterChain.php(130): CInlineFilter->filter(Object(CFilterChain))
+#6 /var/www/html/fonpyme/framework/web/CController.php(291): CFilterChain->run()
+#7 /var/www/html/fonpyme/framework/web/CController.php(265): CController->runActionWithFilters(Object(CInlineAction), Array)
+#8 /var/www/html/fonpyme/framework/web/CWebApplication.php(282): CController->run('update')
+#9 /var/www/html/fonpyme/framework/web/CWebApplication.php(141): CWebApplication->runController('sociedad/update...')
+#10 /var/www/html/fonpyme/framework/base/CApplication.php(185): CWebApplication->processRequest()
+#11 /var/www/html/fonpyme/gacela/index.php(13): CApplication->run()
+#12 {main}
+REQUEST_URI=/fonpyme/gacela/sociedad/update/images/barra.png
+HTTP_REFERER=http://192.168.43.26/fonpyme/gacela/sociedad/update/23
+---
